@@ -1,0 +1,2067 @@
+Project_Id,Location_Id,ProjectName,GrossFloorAreaSqm,ProjectTypes,IsCertified
+1000011028,1,Clarksburg Fire Station 35,2139.09,Public Order and Safety: Fire/Police Station,Yes
+1000011315,2,Moultrie Courthouse - C Street Addition,16258.02,Office: Government,Yes
+1000012868,3,Petrocelli Surgical Pavilion Addition,26830.48,Health Care,Yes
+1000017965,4,CONF,30028.29,CONF,Yes
+1000020194,5,UMD New Cole Fieldhouse,37827.78,Core Learning Space: College/University,Yes
+1000024595,6,PG Seropedica Genie,13109.91,Industrial Manufacturing,Yes
+1000026963,7,LA North Central Animal Care Ctr II,3682.12,Office: Government,Yes
+1000027670,8,Harper College - Building D,13226.69,Core Learning Space: College/University,Yes
+1000028180,9,UVA Wise Library,6350.2,Public Assembly: Library,Yes
+1000028301,10,Samuelson Bldg Renovation & Expansion,12611.86,Core Learning Space: College/University,Yes
+1000029009,11,CONF,1659.62,CONF,Yes
+1000031364,12,CONF,6135.5,CONF,Yes
+1000032129,13,Pittsburgh Playhouse,8393.79,Core Learning Space: College/University,Yes
+1000032397,14,CONF,7006.0,CONF,Yes
+1000034456,15,Cittadella della Accoglienza,6539.93,Healthcare: Nursing Home/ Assisted Living,Yes
+1000035933,16,New York State Insurance Fund,29198.02,Office: Government,Yes
+1000036749,17,Ziraat Bank Tower 2,83394.66,Office: Administrative/Professional,Yes
+1000036792,18,Idlewild Nature Center,457.36,Core Learning Space: Other classroom education,Yes
+1000041700,19,CLC GMP1-GMP2,21300.89,Core Learning Space: College/University,Yes
+1000045301,20,Elizabeth House III,20086.56,Multi-Family Residential: Apartment,Yes
+1000045559,21,NZP Bird House Facility Renewal,2847.94,Public Assembly: Other Assembly,Yes
+1000051846,22,Glenn County Courthouse,5216.13,Office: Government,Yes
+1000052319,23,CONF,56378.94,CONF,Yes
+1000052529,24,UPJ Engineering - Science Building Reno,6061.46,Core Learning Space: College/University,Yes
+1000052631,25,Holiday Inn and Suites,10217.75,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000053613,26,River Landing Residences,95363.63,Multi-Family Residential: Apartment,Yes
+1000054064,27,"Shasta County, New Redding Courthouse",14629.34,Other,Yes
+1000055676,28,VA Stockton CUP,836.5,Service: Other Service,Yes
+1000055677,29,VA Stockton CBOC,14051.76,Healthcare: Clinic/Other Outpatient,Yes
+1000056941,30,CALVERT VAUX PARK COMFORT STATION,307.97,Public Order and Safety: Other Public Order,Yes
+1000057425,31,Loudoun County Juvenile Detention Center,3316.64,Other,Yes
+1000058836,32,CONF,270321.07,CONF,Yes
+1000059705,33,GM Design Center,33445.08,Office: Administrative/Professional,Yes
+1000061064,34,Sai Kung Hotel,17940.13,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000063098,35,WWRC Anderson Vocational Building,10406.16,Core Learning Space: Other classroom education,Yes
+1000063509,36,Missoni Baia,76855.86,Multi-Family Residential: Condominium,Yes
+1000064718,37,Whitt Hall Renovation,3045.36,Core Learning Space: College/University,Yes
+1000065115,38,HBS Production Base,148833.95,Other,Yes
+1000065117,39,HBS Art Museum,12073.58,Public Assembly: Museum,Yes
+1000065227,40,CONF,37502.9,CONF,Yes
+1000065546,41,Wertheim Laboratory Building,7948.78,Core Learning Space: College/University,Yes
+1000065565,42,Clarendon West 1,29447.0,Multi-Family Residential: Apartment,Yes
+1000066926,43,Modera Rincon Hill,16519.73,Multi-Family Residential: Apartment,Yes
+1000068525,44,Amrita Institute of Medical Science,393784.0,Healthcare: Inpatient,Yes
+1000068550,45,CONF,17647.3,CONF,Yes
+1000068666,46,Sherborn Library Addition,709.96,Public Assembly: Library,Yes
+1000068761,47,IU Memorial Stadium Excellence Academy,10816.05,Public Assembly: Stadium/Arena,Yes
+1000068763,48,Four Seasons Hotel & Private Residences,61169.01,Other,Yes
+1000069108,49,Buddy Holly Hall of Performing Arts,19881.24,Public Assembly: Entertainment,Yes
+1000069449,50,Holden Hall - Virginia Tech,9290.3,Core Learning Space: College/University,Yes
+1000069540,51,Virginia DBVI Headquarters Renovation,1814.3,Office: Government,Yes
+1000069729,52,Aspen Melford Town Center,41344.06,Multi-Family Residential: Apartment,Yes
+1000070502,53,CONF,59197.35,CONF,Yes
+1000070772,54,King County LOOP Fleet Facility,1352.67,Service: Vehicle Storage/Maintenance,Yes
+1000070805,55,Student Services Center- LAMC,5894.14,Core Learning Space: College/University,Yes
+1000071091,56,Harrison Albany Block Building 2,28364.21,Multi-Family Residential: Apartment,Yes
+1000073115,57,CONF,2564.49,CONF,Yes
+1000073581,58,CONF,6147.39,CONF,Yes
+1000074052,59,Chabot College Biological Sciences Annex,1803.06,Core Learning Space: College/University,Yes
+1000074344,60,UVA - Gilmer Hall,20624.47,Core Learning Space: College/University,Yes
+1000074436,61,City of Minneapolis ESS&MF,18974.04,Service: Vehicle Storage/Maintenance,Yes
+1000074440,62,Arsenal Yards Hampton Inn & Suites,10124.1,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000075239,63,Towson University Science Complex,29627.14,Core Learning Space: College/University,Yes
+1000075504,64,Baoan Phase 3 WTE Power Plant,10860.08,Office: Mixed-Use,Yes
+1000075550,65,SUNY Ambulatory Care Facility,18910.78,Healthcare: Clinic/Other Outpatient,Yes
+1000075790,66,Lewiston-Queenston Land Port of Entry,4180.64,Service: Other Service,Yes
+1000077786,67,CNU -  Torggler Fine Art Center,8033.69,Core Learning Space: College/University,Yes
+1000078124,68,C-17 Fuel Cell Hangar Project,5844.9,Service: Vehicle Storage/Maintenance,Yes
+1000078249,69,La MaMa Experimental Theater,819.87,Public Assembly: Entertainment,Yes
+1000078278,70,Port of Long Beach Fireboat Station 20,908.87,Public Order and Safety: Fire/Police Station,Yes
+1000078343,71,AF PN FJXT133000 DAFB Maintenance Hangar,7709.37,Other,Yes
+1000078390,72,CONF,78342.22,CONF,Yes
+1000078903,73,South County Police St & Animal Shelter,4882.8,Public Order and Safety: Fire/Police Station,Yes
+1000080765,74,CONF,67447.58,CONF,Yes
+1000080871,75,Sterling Park Safety Center,2171.33,Public Order and Safety: Fire/Police Station,Yes
+1000081685,76,Missile Maintenance Dispatch Facility,3897.75,Public Order and Safety: Other Public Order,Yes
+1000083476,77,Winthrop Center Residences,60386.95,Multi-Family Residential: Condominium,Yes
+1000085478,78,Miami-Dade Fire Rescue Fire Station 29,1056.31,Public Order and Safety: Fire/Police Station,Yes
+1000085523,79,W&M Fine & Performing Arts Center,14877.39,Core Learning Space: College/University,Yes
+1000085744,80,UCSD Marine Conservation & Tech Facility,3237.76,Core Learning Space: College/University,Yes
+1000087076,81,CCL - B1,23132.85,Multi-Family Residential: Apartment,Yes
+1000087533,82,Towson University Union,23750.65,Core Learning Space: College/University,Yes
+1000087548,83,CONF,8095.66,CONF,Yes
+1000087812,84,CONF,10219.33,CONF,Yes
+1000088097,85,CONF,1896.61,CONF,Yes
+1000088354,86,H Building Allianz,36217.0,Office: Mixed-Use,Yes
+1000088508,87,Camp Rilea B7116,3112.25,Other,Yes
+1000090500,88,Heliport,1506.05,Public Order and Safety: Fire/Police Station,Yes
+1000090599,89,JHU - Applied Physics Laboratory B201,24433.49,Laboratory,Yes
+1000092493,90,CONF,0.0,CONF,Yes
+1000092882,91,Orlando Wetlands Park Operations Center,623.66,Other,Yes
+1000093087,92,Engine 37 Expansion,1005.95,Public Order and Safety: Fire/Police Station,Yes
+1000093749,93,WRHC Building F Renovation,9948.05,Core Learning Space: College/University,Yes
+1000094413,94,URBA,35667.78,Multi-Family Residential: Apartment,Yes
+1000095778,95,Newburyport Crossing - One Boston Way,8069.74,Multi-Family Residential: Apartment,Yes
+1000096139,96,Delta Electronics India Pvt. Ltd.,40716.04,Office: Other Office,Yes
+1000098959,97,Istanbul Museum of Modern Art,15479.78,Public Assembly: Social/Meeting,Yes
+1000099321,98,Oyak Dragos - A Block,33500.0,Multi-Family Residential: Apartment,Yes
+1000099323,99,Oyak Dragos - B Block,26670.0,Multi-Family Residential: Apartment,Yes
+1000099449,100,Sylvia H. Rambo United States Courthouse,22561.12,Office: Government,Yes
+1000099502,101,AnantaraMinaAlArabRAKResort-MainB&RiyadB,25495.95,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000099506,102,JMU - Dukes Dining,3451.53,Retail: Restaurant/Cafeteria,Yes
+1000099539,103,CONF,288713.17,CONF,Yes
+1000099638,104,CONF,23597.36,CONF,Yes
+1000099673,105,Pittsburgh Yards,5665.22,Office: Other Office,Yes
+1000100234,106,FS6 & FTC - Building 1 & 2,2787.09,Public Order and Safety: Fire/Police Station,Yes
+1000100546,107,WAG - Inuit Art Centre Addition,3367.0,Public Assembly: Other Assembly,Yes
+1000100613,108,University of Calgary MacKimmie Complex,33568.0,Office: Administrative/Professional,Yes
+1000101896,109,Ko'ula,66971.91,Multi-Family Residential: Condominium,Yes
+1000103118,110,U.S. DOT Volpe Exchange Project,52583.38,Office: Government,Yes
+1000103264,111,SEA International Arrivals Facility,31587.02,Other,Yes
+1000103365,112,CONF,9049.0,CONF,Yes
+1000103869,113,UCLA Southwest Campus Apartments,54345.0,Lodging: Dormitory,Yes
+1000103925,114,Ovation Apartments,50364.11,Multi-Family Residential: Apartment,Yes
+1000104109,115,UCDH Eye Center Addition,6002.0,Healthcare: Clinic/Other Outpatient,Yes
+1000104125,116,Bramalea GO Station,1500.0,Transit: Station/Elevated,Yes
+1000104142,117,UVA - Bond House,18580.6,Lodging: Dormitory,Yes
+1000104206,118,CSU Chico Science Building,10219.33,Core Learning Space: College/University,Yes
+1000105074,119,Makers Rise,37070.25,Multi-Family Residential: Apartment,Yes
+1000105198,120,Yards - Parcel I,37163.52,Multi-Family Residential: Apartment,Yes
+1000105226,121,ARMY PN86877 AFH090 Family Towers,56298.0,Multi-Family Residential: Apartment,Yes
+1000105276,122,Diablo Valley College Arts Complex,3128.32,Core Learning Space: College/University,Yes
+1000105304,123,CONF,5567.0,CONF,Yes
+1000105372,124,Manitou a bi Bii daziigae,11052.0,Core Learning Space: College/University,Yes
+1000105401,125,Nicholson Tower,4027.0,Office: Administrative/Professional,Yes
+1000105461,126,MTL-Centre aquatique Rosemont,6765.0,Public Assembly: Other Assembly,Yes
+1000105781,127,Istanbul Universitesi AUZEF Binasi,6848.0,Public Assembly: Other Assembly,Yes
+1000105885,128,Cambridge Crossing - Park 151,40338.48,Multi-Family Residential: Apartment,Yes
+1000106028,129,Laserfiche,9290.3,Office: Administrative/Professional,Yes
+1000106369,130,UPMC Vision And Rehabilitation Hospital,39282.18,Healthcare: Clinic/Other Outpatient,Yes
+1000106432,131,Borgen Precourt Center for Sustainabilit,721.11,Office: Other Office,Yes
+1000106487,132,Poste de la SQ Beauce-Sartigan,1916.0,Public Order and Safety: Fire/Police Station,Yes
+1000106506,133,Lynnwood City Center,1641.6,Transit: Station/Elevated,Yes
+1000106759,134,280 Park Avenue,117541.25,Office: Mixed-Use,Yes
+1000106799,135,PE & K Renovation,5921.17,Core Learning Space: College/University,Yes
+1000106828,136,Saint Vincent College Library,4954.05,Core Learning Space: College/University,Yes
+1000106835,137,Yale Peabody Museum of Natural History,13099.32,Public Assembly: Other Assembly,Yes
+1000106921,138,DEN Airport Concourse A West Expansion,45250.73,Airport: Terminal/Concourse,Yes
+1000107162,139,William and Linda Frost Center,9816.13,Core Learning Space: College/University,Yes
+1000107173,140,CONF,798.0,CONF,Yes
+1000107660,141,Rane Culinary Science Center,13201.14,Core Learning Space: College/University,Yes
+1000107702,142,Central Bank Center,35352.1,Public Assembly: Convention Center,Yes
+1000107703,143,Pavilion at the Central Bank Center,5611.06,Public Assembly: Convention Center,Yes
+1000108028,144,Southeast Community Center,4645.15,Public Assembly: Social/Meeting,Yes
+1000108048,145,Dartmouth Anonymous Hall,3158.7,Core Learning Space: College/University,Yes
+1000108083,146,Agincourt GO Station,847.0,Transit: Station/Underground,Yes
+1000108087,147,UC Calhoun Hall,15410.29,Lodging: Dormitory,Yes
+1000108108,148,LAX APM Maintenance & Storage Facility,8677.14,Transit: Maintenance/Storage,Yes
+1000108110,149,210 Route 4 East,11891.58,Office: Mixed-Use,Yes
+1000108133,150,CONF,4542.96,CONF,Yes
+1000108153,151,Cheko'nien House,175946.7094,Lodging: Dormitory,Yes
+1000108294,152,Kenyon College Oden Hall,4104.73,Core Learning Space: College/University,Yes
+1000108878,153,Autumn Grove Lodge,7802.0,Lodging: Other lodging,Yes
+1000109218,154,CONF,6941.15,CONF,Yes
+1000109723,155,DMA Cyber,3824.07,Office: Government,Yes
+1000110129,156,AEP Newark Service Center,5344.52,Office: Mixed-Use,Yes
+1000110131,157,EGCC-Acute Mental Health Unit,836.13,Public Order and Safety: Other Public Order,Yes
+1000110216,158,GRCC/ATC Addition No. 1,2077.31,Core Learning Space: College/University,Yes
+1000110262,159,VCU STEM Building,15551.87,Core Learning Space: College/University,Yes
+1000110302,160,CONF,5084.58,CONF,Yes
+1000110444,161,Ball State University North Res. Hall 2,14373.12,Lodging: Dormitory,Yes
+1000110904,162,SJSU Interdisciplinary Science Building,14433.5,Laboratory,Yes
+1000111286,163,UCLA Botany Building Renovation,3469.93,Core Learning Space: College/University,Yes
+1000111466,164,CONF,8129.01,CONF,Yes
+1000111605,165,Renovation of Historic City Hall,4131.58,Office: Government,Yes
+1000111662,166,Iowa City Public Works Phase 1,7924.07,Service: Vehicle Storage/Maintenance,Yes
+1000111672,167,CONF,20914.0,CONF,Yes
+1000112085,168,Shelo Nabel CN Queretaro,1025.46,Office: Mixed-Use,Yes
+1000112243,169,ING Bank Turkey Headquarters,23608.14,Office: Financial,Yes
+1000112295,170,York University SCS,10315.0,Core Learning Space: College/University,Yes
+1000112312,171,Denver Water NTP Operations Building,576.0,Office: Administrative/Professional,Yes
+1000112631,172,JM Family - Offices A & B,16362.26,Office: Administrative/Professional,Yes
+1000112679,173,COTA Fields Avenue CNG Station,26495.38,Transit: Maintenance/Storage,Yes
+1000112817,174,Jack Beyerl Residence Hall,12790.89,Lodging: Dormitory,Yes
+1000112883,175,Terre dei Consoli - Club House Building,14176.0563,Service: Other Service,Yes
+1000113225,176,CONF,33239.67,CONF,Yes
+1000113372,177,VMI CPTF AQUATIC CENTER,5388.37,Other,Yes
+1000113485,178,PorterFamily Indoor Performance Facility,8439.31,Other,Yes
+1000114419,179,CONF,28071.0,CONF,Yes
+1000114453,180,CONF,83256.84,CONF,Yes
+1000114457,181,"Whatcom Vlg - 3 4 5 6, N O P Q",80173.99,Office: Mixed-Use,Yes
+1000114924,182,CONF,13425.51,CONF,Yes
+1000114974,183,W&M Sadler West Addition,5097.49,Public Assembly: Other Assembly,Yes
+1000114987,184,W&M Campus Living Center,975.67,Healthcare: Clinic/Other Outpatient,Yes
+1000115030,185,Oakville Trafalgar Community Centre,4497.0,Public Assembly: Recreation,Yes
+1000115045,186,Grafton MA Library Expansion/Renovation,2322.57,Public Assembly: Library,Yes
+1000115047,187,CONF,38417.99,CONF,Yes
+1000115053,188,UVM Firestone Medical Research Building,5616.45,Laboratory,Yes
+1000115157,189,DVC Health Sciences & Athletics Complex,2987.3,Core Learning Space: College/University,Yes
+1000115201,190,University of Calgary Mathison Hall,107639.0,Core Learning Space: College/University,Yes
+1000115231,191,Centro Internacional del Espanol,5371.0,Public Assembly: Other Assembly,Yes
+1000115244,192,Wesleyan Public Affairs Center,6936.7,Core Learning Space: College/University,Yes
+1000115261,193,Hilton Columbus Downtown Expansion,42873.9,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000116060,194,22 Banner Lane,22276.28,Multi-Family Residential: Apartment,Yes
+1000116061,195,44 Banner Lane,36463.03,Multi-Family Residential: Apartment,Yes
+1000116182,196,Shenling Base III R&D Building,19992.73,Office: Other Office,Yes
+1000116565,197,Block 216,76090.44,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000116670,198,AL-MUNTADA Knowledge Space Saint-Gobain,400.0,Office: Mixed-Use,Yes
+1000116708,199,MSU Public Safety Building,1856.48,Public Order and Safety: Other Public Order,Yes
+1000116948,200,City of Raleigh Fire Station 22,1462.85,Public Order and Safety: Fire/Police Station,Yes
+1000117003,201,DSWA Administration Building,2120.98,Office: Administrative/Professional,Yes
+1000117364,202,GCO Mendez Alvaro 31,22707.0,Office: Administrative/Professional,Yes
+1000117389,203,Sesquicentennial Hall,9200.09,Core Learning Space: College/University,Yes
+1000117468,204,"Clearwater Credit Union, Brooks Branch",626.91,Retail: Bank Branch,Yes
+1000117493,205,Penn State Berks Beaver Community Center,6874.82,Core Learning Space: College/University,Yes
+1000117571,206,Kaiser Permanente Springfield MOB,9215.05,Office: Medical (Non-Diagnostic),Yes
+1000117911,207,Toyota MS Experience Center,1378.68,Public Assembly: Other Assembly,Yes
+1000117981,208,Raclin Murphy Museum of Art,6812.58,Public Assembly: Other Assembly,Yes
+1000117983,209,UC Davis Shasta Hall,19416.17,Lodging: Dormitory,Yes
+1000118039,210,The Standard at Seattle,51341.82,Multi-Family Residential: Apartment,Yes
+1000118205,211,HLS Lewis Hall,4050.48,Core Learning Space: College/University,Yes
+1000118400,212,BTC Phase III construction,53652.6,Industrial Manufacturing,Yes
+1000118401,213,Administration Building of BTC,6995.6,Office: Mixed-Use,Yes
+1000118791,214,CONF,14610.95,CONF,Yes
+1000119140,215,Comisaria Policia Olesa de Montserrat,597.0,Public Order and Safety: Fire/Police Station,Yes
+1000119329,216,AUS IT Building,3741.85,Airport: Office,Yes
+1000119511,217,Jane E. Heminger Hall,3530.31,Core Learning Space: College/University,Yes
+1000119611,218,Ereks Blue Matters Resp. Prod. Platform,9754.82,Industrial Manufacturing,Yes
+1000119612,219,Emory University HSRB II,32144.44,Laboratory,Yes
+1000119708,220,MTL-Maison Robert-Belanger,335.0,Office: Other Office,Yes
+1000119744,221,CONF,7897.41,CONF,Yes
+1000119745,222,Indianapolis-Marion County Sheriff/ADC,74483.87,Lodging: Other lodging,Yes
+1000119759,223,CONF,2694.19,CONF,Yes
+1000119770,224,Rice Sid Richardson Residential College,11705.78,Lodging: Dormitory,Yes
+1000119772,225,NKU Residence Hall,6523.65,Multi-Family Residential: Apartment,Yes
+1000119839,226,Rutherford GO Station,2663.0,Transit: Station/Underground,Yes
+1000119861,227,UMW Virginia Hall Renovation,4244.46,Lodging: Dormitory,Yes
+1000120063,228,East Columbia 50+ Center,2879.99,Public Assembly: Other Assembly,Yes
+1000120075,229,Stockyards Event Center at the NWC,4452.84,Public Assembly: Stadium/Arena,Yes
+1000120085,230,Maintenance & Storage Facility Main Bldg,5052.0,Transit: Maintenance/Storage,Yes
+1000120132,231,CBC Student Recreation Center,7263.99,Public Assembly: Recreation,Yes
+1000120314,232,CSULA Student Housing East Project,34194.44,Lodging: Dormitory,Yes
+1000120423,233,CRIF 21,12100.0,Office: Administrative/Professional,Yes
+1000120797,234,Irving Institute for Energy & Society,4244.55,Office: Mixed-Use,Yes
+1000120828,235,Penn State Mont Alto Allied Health,2043.87,Core Learning Space: College/University,Yes
+1000120869,236,Remick Family Hall,4045.18,Core Learning Space: College/University,Yes
+1000120913,237,Alief Neighborhood Center,6647.3,Public Assembly: Other Assembly,Yes
+1000120994,238,Metro Building at Eisenhower,39501.15,Office: Administrative/Professional,Yes
+1000121357,239,ASGC Labour Accommodation Building,10220.44,Lodging: Other lodging,Yes
+1000121363,240,Purdue Dudley Hall and Lambertus Hall,23167.69,Core Learning Space: College/University,Yes
+1000121586,241,Animal Control Facility,2035.97,Public Order and Safety: Other Public Order,Yes
+1000121590,242,Via Ripamonti 37,31746.0,Lodging: Dormitory,Yes
+1000121687,243,KP MMC Ambulatory Surgery Center,8267.62,Healthcare: Clinic/Other Outpatient,Yes
+1000121700,244,CONF,6801.99,CONF,Yes
+1000121785,245,Jack Doyle Athletics & Recreation Centre,11658.0,Core Learning Space: College/University,Yes
+1000121792,246,VALL HEBRON INSTITUT DE RECERCA - VHIR,11402.0,Office: Medical (Non-Diagnostic),Yes
+1000122321,247,Forbes & Beeler Residence Hall,11148.36,Lodging: Dormitory,Yes
+1000122372,248,Garrett College Performing Arts Center,2660.83,Public Assembly: Entertainment,Yes
+1000122888,249,CSU - Spur - Terra Bldg.,6317.4,Core Learning Space: Other classroom education,Yes
+1000122899,250,CONF,2788.0,CONF,Yes
+1000123012,251,Houston Zoo Headquarters,3929.8,Office: Administrative/Professional,Yes
+1000123183,252,Granite Library,2954.32,Public Assembly: Library,Yes
+1000123400,253,VU Owen Graduate School of Management,11436.36,Core Learning Space: College/University,Yes
+1000123721,254,CSU College of Business,6038.7,Core Learning Space: College/University,Yes
+1000123783,255,CONF,8268.37,CONF,Yes
+1000123812,256,UW - Health Science Education Building,9104.49,Core Learning Space: College/University,Yes
+1000123851,257,Family First Community Center,1960.25,Public Assembly: Recreation,Yes
+1000124095,258,The Hale,38118.01,Multi-Family Residential: Apartment,Yes
+1000124108,259,ZORDAN ATTILIO,5170.0,Office: Other Office,Yes
+1000124249,260,CCPL Bay Village Branch,1595.14,Public Assembly: Library,Yes
+1000124273,261,2750 19th Street,7986.41,Multi-Family Residential: Apartment,Yes
+1000124286,262,MA State Police Lower Basin Barracks,1821.92,Public Order and Safety: Fire/Police Station,Yes
+1000124295,263,CONF,4168.74,CONF,Yes
+1000124300,264,University of Dayton Center for the Arts,4784.69,Core Learning Space: College/University,Yes
+1000124371,265,Virginia Tech Data and Decision Sciences,11148.36,Core Learning Space: College/University,Yes
+1000124417,266,Lincoln at Bankside,84260.42,Multi-Family Residential: Apartment,Yes
+1000124497,267,CCP Career & Advanced Technology Center,6967.72,Core Learning Space: College/University,Yes
+1000124510,268,De Anza Morningstar,7958.35,Multi-Family Residential: Apartment,Yes
+1000124547,269,CoverMyMeds Phase I,29058.39,Office: Administrative/Professional,Yes
+1000124589,270,WMATA - New Carrollton,29728.96,Office: Administrative/Professional,Yes
+1000124722,271,Merser Mercedes-Benz Showroom & Service,12506.0,Service: Vehicle Service/Repair,Yes
+1000124776,272,1900 Crystal Drive,44186.25,Multi-Family Residential: Apartment,Yes
+1000124804,273,CONF,2042.1,CONF,Yes
+1000124812,274,South Endzone,10516.62,Public Assembly: Stadium/Arena,Yes
+1000125031,275,Mica RiNo,44019.11,Multi-Family Residential: Apartment,Yes
+1000125072,276,Missouri Botanical Garden Visitor Center,8547.08,Public Assembly: Other Assembly,Yes
+1000125146,277,Ctrls Datacenters Limited,5121.0,Data Center,Yes
+1000125291,278,Project Lannister Offices,6455.0,Office: Administrative/Professional,Yes
+1000125416,279,Lake & River Hall,21561.11,Core Learning Space: College/University,Yes
+1000125563,280,FIU- Parkview II - Student Housing,27827.24,Lodging: Dormitory,Yes
+1000125581,281,Sage at National Landing,24192.22,Multi-Family Residential: Apartment,Yes
+1000125609,282,The Broadview at Vanderbilt,35089.46,Multi-Family Residential: Apartment,Yes
+1000125660,283,UP Shiley-Marcos Center,3575.0,Core Learning Space: College/University,Yes
+1000125676,284,CCAC CEIT,4774.29,Core Learning Space: College/University,Yes
+1000125733,285,Waterloo Regional Police Services,8816.0,Public Order and Safety: Fire/Police Station,Yes
+1000125921,286,Tampa US Customs & Border Protection,2604.72,Airport: Office,Yes
+1000126140,287,FIS HQ,34959.77,Office: Administrative/Professional,Yes
+1000126363,288,Iowa State Veterinary Diagnostic Lab,9391.1,Core Learning Space: College/University,Yes
+1000126435,289,"The Virginian  Fairfax, VA",34113.05,Healthcare: Nursing Home/ Assisted Living,Yes
+1000126485,290,Malachowsky Hall Data Sciences & IT,24474.37,Core Learning Space: College/University,Yes
+1000126661,291,Animal Services Center of Mesilla Valley,1683.31,Other,Yes
+1000126697,292,Ringling Dining,2601.28,Retail: Restaurant/Cafeteria,Yes
+1000126743,293,UCF Roth Athletic Center,3572.31,Other,Yes
+1000126744,294,Town of Vienna Police Headquarters,2631.01,Public Order and Safety: Fire/Police Station,Yes
+1000126748,295,281007 Renovate Crosby Hall,7339.34,Core Learning Space: College/University,Yes
+1000126761,296,CONF,14715.0,CONF,Yes
+1000126762,297,CONF,21054.0,CONF,Yes
+1000126780,298,CONF,19790.0,CONF,Yes
+1000126781,299,CONF,1975.0,CONF,Yes
+1000126860,300,FSU Center for Virtual Learning,5556.53,Core Learning Space: College/University,Yes
+1000127107,301,WWU Interdisciplinary Science Building,5258.31,Core Learning Space: College/University,Yes
+1000127189,302,CLV Health + Wellness,792.65,Office: Medical (Non-Diagnostic),Yes
+1000127577,303,Mission Rock Parcel A,28812.56,Multi-Family Residential: Apartment,Yes
+1000127922,304,Chongqing Cummins New Office Building,14449.0,Office: Mixed-Use,Yes
+1000127979,305,CMU Scaife Hall,7961.79,Core Learning Space: College/University,Yes
+1000128079,306,Cleveland Museum Natural History Phase2,4645.15,Public Assembly: Museum,Yes
+1000128200,307,CONF,5762.4,CONF,Yes
+1000128224,308,U-M Dean Road Transportation Facility,6465.68,Transit: Other,Yes
+1000128432,309,CONF,35362.0,CONF,Yes
+1000128498,310,Jeffrey T Fort Neuro Research Building,56485.02,Laboratory,Yes
+1000128557,311,"Centennial College, A-Building",12248.0,Core Learning Space: College/University,Yes
+1000128574,312,St. Albert Fire Hall-1,2911.0,Public Order and Safety: Fire/Police Station,Yes
+1000128661,313,901 Cherry Phase II - Buildings 2 and 3,27229.96,Office: Administrative/Professional,Yes
+1000128796,314,Hotel Verdant,6908.73,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000128902,315,Airbus-Delivery Center Expansion,2755.13,Office: Administrative/Professional,Yes
+1000128927,316,Wolfspeed MVF-FAB ADMIN,53327.53,Industrial Manufacturing,Yes
+1000128928,317,Wolfspeed MVF-CUB,9811.39,Service: Other Service,Yes
+1000128976,318,Greater Pittsburgh Food Bank Expansion,11352.75,Warehouse: Refrigerated,Yes
+1000129049,319,Garvey Hall,3235.16,Public Assembly: Other Assembly,Yes
+1000129511,320,Four Points by Sheraton Navi Mumbai,14726.88,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000129542,321,Nuovo Centro Direzionale CDO3 - Veritas,4390.0,Office: Administrative/Professional,Yes
+1000129660,322,CONF,67670.0,CONF,Yes
+1000129674,323,Bridgestone Warren Plant Recertification,183454.81,Industrial Manufacturing,Yes
+1000129706,324,CONF,1532.9,CONF,Yes
+1000129771,325,Aransas National Wildlife Refuge,1433.31,Office: Government,Yes
+1000129774,326,CONF,11366.68,CONF,Yes
+1000129804,327,University of Cincinnati Clifton Court,16722.54,Core Learning Space: College/University,Yes
+1000129809,328,MU Clinical Health Sciences,17058.01,Core Learning Space: College/University,Yes
+1000130077,329,1701 H Street NE,14648.95,Multi-Family Residential: Apartment,Yes
+1000130115,330,Mann Older Adult Rivera Rec. Center,3658.06,Public Assembly: Recreation,Yes
+1000130117,331,Lucas Hall,2508.38,Core Learning Space: College/University,Yes
+1000130144,332,Blacksburg Police Headquarters,3258.48,Public Order and Safety: Fire/Police Station,Yes
+1000130152,333,SLCC Juniper Building - Herriman Campus,8454.17,Other,Yes
+1000130386,334,CONF,22500.0,CONF,Yes
+1000130394,335,Morningstar at West Valley Memory Care,2998.35,Healthcare: Nursing Home/ Assisted Living,Yes
+1000130428,336,CONF,6131.6,CONF,Yes
+1000130454,337,District Cooling Plant BB05,11063.45,Service: Other Service,Yes
+1000130598,338,CONF,464.52,CONF,Yes
+1000130960,339,Colby College Gordon Center,6547.9,Core Learning Space: College/University,Yes
+1000130961,340,NYU Ambulatory Hub 1111 Franklin Avenue,22911.83,Healthcare: Clinic/Other Outpatient,Yes
+1000130965,341,CONF,1659.8,CONF,Yes
+1000130970,342,Capers Hall - Building Replacement,9058.04,Core Learning Space: College/University,Yes
+1000130974,343,CONF,1109.54,CONF,Yes
+1000131005,344,Mult. Behavioral Health Resource Center,2647.92,Other,Yes
+1000131151,345,UW - Founders Hall,7841.01,Core Learning Space: College/University,Yes
+1000131185,346,Green Hill School Recreation Building,2638.45,Public Assembly: Recreation,Yes
+1000131219,347,Five Rivers Health Centers - M.O.B.,7803.85,Healthcare: Clinic/Other Outpatient,Yes
+1000131228,348,LPC Public Safety Complex/AMT,7005.26,Core Learning Space: College/University,Yes
+1000131280,349,PennDOT D6-0 RTMC,3556.14,Office: Government,Yes
+1000131522,350,Soccer and Lacrosse Facility Expansion,1254.19,Office: Mixed-Use,Yes
+1000131533,351,Airbus-Dual Bay Flightline Hangar 24,8533.98,Airport: Hangar,Yes
+1000131547,352,Oracle 6VDG,11612.88,Office: Administrative/Professional,Yes
+1000131604,353,AIRBUS Staging Bldg + Calibration Hangar,3010.99,Airport: Hangar,Yes
+1000131629,354,CSU MC Harbison Research & Ed Bldg,759.2,Core Learning Space: College/University,Yes
+1000131657,355,College Park City Hall,8656.24,Office: Government,Yes
+1000131679,356,Chick fil A 03863 Annandale,399.48,Retail: Fast Food,Yes
+1000131721,357,MSU Thurgood Marshall Hall - Phase 1,20676.21,Lodging: Dormitory,Yes
+1000131722,358,JOHN S. & JAMES L. Knight Recital Hall,1966.29,Public Assembly: Entertainment,Yes
+1000131801,359,May Lee State Office Complex prev. RBOC,128473.24,Office: Government,Yes
+1000131832,360,CONF,3483.86,CONF,Yes
+1000132019,361,Virginia Tech Upper Quad Hall North,5262.95,Lodging: Dormitory,Yes
+1000132038,362,Eastlake at Tillery - Bldg 2,9210.12,Office: Administrative/Professional,Yes
+1000132061,363,"Otay Mesa US LPOE, Commercial Annex Bldg",3065.8,Office: Government,Yes
+1000132062,364,"Otay Mesa US LPOE, USDA Plant Inspection",1142.71,Laboratory,Yes
+1000132181,365,UC Davis at Orchard Park - Amenity,1458.48,Other,Yes
+1000132329,366,Lukachukai Fire Station Bus Bay,786.33,Public Order and Safety: Fire/Police Station,Yes
+1000132337,367,East College Street Development,11055.46,Multi-Family Residential: Apartment,Yes
+1000132401,368,Starbucks China Office Building,3318.0,Office: Mixed-Use,Yes
+1000132402,369,Starbucks China Production Workshop,10774.0,Industrial Manufacturing,Yes
+1000132485,370,Gwinnett County Police Training Exp.,2432.39,Office: Government,Yes
+1000132496,371,CONF,3264.15,CONF,Yes
+1000132576,372,Modera Clarendon,24990.91,Multi-Family Residential: Apartment,Yes
+1000132769,373,CONF,1486.45,CONF,Yes
+1000132770,374,Charles M. Murray Maintenance Facility,1322.2,Service: Vehicle Service/Repair,Yes
+1000132841,375,Viposa - NOA,12186.0,Industrial Manufacturing,Yes
+1000132908,376,OFICINAS SEDE CENTRAL SIMON BARCELONA,9702.0,Office: Mixed-Use,Yes
+1000132952,377,CONF,7571.0,CONF,Yes
+1000133076,378,VASTRAKALA EXPORTS PRIVATE LIMITED,4096.0,Industrial Manufacturing,Yes
+1000133126,379,Marc and Sharon Hagle Hall,3348.22,Core Learning Space: College/University,Yes
+1000133206,380,Nancy J. Cotterman Center,2509.03,Lodging: Dormitory,Yes
+1000133308,381,Albion in the Gulch,46079.89,Multi-Family Residential: Apartment,Yes
+1000133391,382,Signature Des Moines FBO Terminal/Hangar,3565.9,Airport: Terminal/Concourse,Yes
+1000133434,383,Merck Elkton B25 Document Resources,919.74,Office: Other Office,Yes
+1000133531,384,Dzilth-Na-O-Dith-Hle Dormitory,1338.64,Lodging: Dormitory,Yes
+1000133540,385,Meridian on New Jersey Avenue,27602.69,Multi-Family Residential: Apartment,Yes
+1000133544,386,555 Penn,40134.1,Core Learning Space: College/University,Yes
+1000133563,387,CONF,1388.0,CONF,Yes
+1000133578,388,New England Biolabs GE,10740.24,Laboratory,Yes
+1000133724,389,Guangdong Huaxing Bank Guangzhou Branch,57616.0,Office: Financial,Yes
+1000133757,390,Chabot Library & Learning Connection,5802.26,Core Learning Space: College/University,Yes
+1000133767,391,FARMACIA 12,1444.0,Multi-Family Residential: Apartment,Yes
+1000133807,392,USU Moab Academic Building,2104.9,Core Learning Space: College/University,Yes
+1000133851,393,The Grant,17551.42,Multi-Family Residential: Apartment,Yes
+1000133893,394,Capitol Rose - 1732 15th Street NW,13697.62,Multi-Family Residential: Apartment,Yes
+1000134053,395,Palazzo Comunale di Ovindoli,760.0,Office: Government,Yes
+1000134167,396,Batiment administratif MRC 142 Dufferin,2762.0,Office: Government,Yes
+1000134194,397,UCSF Bayfront Medical Building,17270.67,Healthcare: Clinic/Other Outpatient,Yes
+1000134207,398,UNLV Medical Education Building,11984.49,Core Learning Space: College/University,Yes
+1000134217,399,CONF,5876.67,CONF,Yes
+1000134223,400,WWCC Applied Technology Building,4601.02,Core Learning Space: College/University,Yes
+1000134257,401,Memorial Cancer Institute,10590.94,Healthcare: Clinic/Other Outpatient,Yes
+1000134580,402,250 Brannan,9369.27,Office: Administrative/Professional,Yes
+1000135296,403,USCG AIR STA VENTURA ADMIN/BERTHING,1134.9,Airport: Office,Yes
+1000135406,404,Asheville Public Safety Station,2028.17,Public Order and Safety: Fire/Police Station,Yes
+1000135819,405,Market Terminal D,14969.83,Multi-Family Residential: Apartment,Yes
+1000135850,406,Ohio State University Lacrosse Stadium,1449.19,Public Assembly: Stadium/Arena,Yes
+1000136120,407,Cascade Learning Resource Center,6089.88,Core Learning Space: College/University,Yes
+1000136570,408,LIGO Exploration Center,1305.47,Public Assembly: Museum,Yes
+1000136602,409,DCMC North - MOB,5574.18,Healthcare: Outpatient Office (Diagnostic),Yes
+1000136633,410,Avalon Brighton,17651.57,Multi-Family Residential: Lowrise,Yes
+1000136717,411,Cleveland Public Library - Hough Branch,743.22,Public Assembly: Library,Yes
+1000136737,412,"U of Arizona, Chemistry Building",8310.92,Core Learning Space: College/University,Yes
+1000136780,413,VISTA,22159.87,Multi-Family Residential: Apartment,Yes
+1000136936,414,Paul Hall,6428.89,Core Learning Space: College/University,Yes
+1000137014,415,NPAA Chattanooga,4874.16,Industrial Manufacturing,Yes
+1000137042,416,Reuben Hoar Public Library,2178.39,Public Assembly: Library,Yes
+1000137080,417,Rice University Hanszen College,5196.06,Lodging: Dormitory,Yes
+1000137090,418,citizenM Hotel Boston Back Bay,14093.39,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000137173,419,WSSB Life Skills Training Center,1074.79,Lodging: Other lodging,Yes
+1000137231,420,Fort Collins East Park Maint. Facility,603.87,Other,Yes
+1000137271,421,COSD Youth Transition Campus - Housing,1003.35,Public Order and Safety: Other Public Order,Yes
+1000137293,422,Catholic Univ - Conway School of Nursing,9429.65,Core Learning Space: College/University,Yes
+1000137597,423,"Student Accomodation, via Serlio",17740.0,Lodging: Dormitory,Yes
+1000137664,424,St. Thomas Schoenecker Center,12087.89,Core Learning Space: College/University,Yes
+1000137691,425,USM McGoldrick Center,3818.31,Office: Administrative/Professional,Yes
+1000137827,426,First Security Bank Bozeman,1055.01,Office: Financial,Yes
+1000137891,427,CONF,2884.0,CONF,Yes
+1000137948,428,Drosdick Hall,14597.85,Laboratory,Yes
+1000137966,429,Emergency Operations Center,1527.88,Office: Government,Yes
+1000137971,430,MIT W51 Burton-Conner,15104.08,Core Learning Space: College/University,Yes
+1000138066,431,CAMPUS ARRUPE,5480.0,Core Learning Space: College/University,Yes
+1000138238,432,Intuit Dome,109593.3,Public Assembly: Recreation,Yes
+1000138271,433,CONF,10894.0,CONF,Yes
+1000138362,434,EPEC Operations & Safety Training Center,1264.87,Core Learning Space: Other classroom education,Yes
+1000138377,435,Lakeshore - 18111 Von Karman,22993.86,Office: Administrative/Professional,Yes
+1000138378,436,UO HWTP Building B&C,26165.85,Lodging: Dormitory,Yes
+1000138407,437,Lakeshore - 18101 Von Karman,39400.91,Office: Administrative/Professional,Yes
+1000138421,438,Lakeshore - 18191 Von Karman,12978.55,Office: Administrative/Professional,Yes
+1000138455,439,CONF,6967.72,CONF,Yes
+1000138714,440,Mill River Whittingham Discovery Center,732.91,Other,Yes
+1000138941,441,Fort Lupton Readiness Center Motor Pool,1858.06,Office: Government,Yes
+1000138955,442,VDMA Ft. Barfoot 561 JFHQ Conversion,2809.39,Office: Government,Yes
+1000138985,443,LLNL B321-G - Manufacturing Building,1045.81,Laboratory,Yes
+1000138995,444,LLNL B310 - New NDE Building,1126.17,Laboratory,Yes
+1000139011,445,HERE Pittsburgh,37491.66,Multi-Family Residential: Apartment,Yes
+1000139014,446,Joint Forces Headquarters - BNGC,5925.72,Office: Government,Yes
+1000139227,447,PortMiami Cruise Terminal F 2.0,13274.17,Public Assembly: Other Assembly,Yes
+1000139250,448,NIKE 4th Phase ASRS Project,11880.99,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000139455,449,CONF,17651.57,CONF,Yes
+1000139488,450,SDSU - Second Stage,1364.47,Core Learning Space: College/University,Yes
+1000139639,451,Veterinary Specialty Center,7250.61,Healthcare: Clinic/Other Outpatient,Yes
+1000139692,452,Quinnipiac University Wellness Center,5202.57,Other,Yes
+1000139734,453,UW Tacoma Milgard Hall,4793.98,Core Learning Space: College/University,Yes
+1000139763,454,Building 48 Modernization,14260.52,Office: Government,Yes
+1000139828,455,Museum of Solutions,5300.0,Public Assembly: Museum,Yes
+1000139880,456,The Cape on Kiawah,16489.17,Multi-Family Residential: Condominium,Yes
+1000139883,457,Espace citoyen des Confluents,5206.0,Public Assembly: Other Assembly,Yes
+1000139971,458,Skye on 6th,24411.75,Multi-Family Residential: Apartment,Yes
+1000140123,459,VIMS - The Acuff Center for Aquaculture,1697.62,Laboratory,Yes
+1000140452,460,"Walter Dods, Jr. RISE Center",10588.34,Lodging: Dormitory,Yes
+1000140846,461,Caradosso 16,4620.0,Office: Financial,Yes
+1000140908,462,EXP Northeastern University,33175.66,Core Learning Space: College/University,Yes
+1000140934,463,Premier Meat Building Expansion,5557.0,Industrial Manufacturing,Yes
+1000140975,464,Mayo Hall Renovation and Addition,2282.91,Office: Other Office,Yes
+1000141120,465,CEU-FAC. HUMANIDADES Y CC. COMUNICACION,7314.0,Core Learning Space: College/University,Yes
+1000141174,466,Urban Balcony Cluster 2 C-4 Plot Project,69385.0,Office: Government,Yes
+1000141220,467,UMass Chan Medical School - NERB,32682.07,Laboratory,Yes
+1000141516,468,1898 S. Flatiron Ct.,3844.05,Industrial Manufacturing,Yes
+1000141892,469,Student Health and Wellness Center,4702.29,Core Learning Space: College/University,Yes
+1000141900,470,UC IRVINE CENTER FOR ADVANCED CARE,15979.32,Healthcare: Clinic/Other Outpatient,Yes
+1000141951,471,CONF,6435.0,CONF,Yes
+1000141978,472,Michigan Tech H-STEM Building,6038.7,Core Learning Space: College/University,Yes
+1000142002,473,Labriola Innovation Complex,3461.57,Core Learning Space: College/University,Yes
+1000142005,474,AECQ Integrated Workshop,120220.0,Industrial Manufacturing,Yes
+1000142019,475,The Edison,16174.41,Multi-Family Residential: Apartment,Yes
+1000142252,476,PG&E Davis T-Line,1254.19,Other,Yes
+1000142532,477,HEIDENHAIN HEADQUARTER,4648.0,Office: Mixed-Use,Yes
+1000142605,478,La Puente Enhanced One Stop Center,640.57,Office: Government,Yes
+1000142644,479,CONF,13470.94,CONF,Yes
+1000142702,480,Tampa Convention Center,52108.64,Public Assembly: Convention Center,Yes
+1000142772,481,303 Baldwin Avenue,11867.62,Office: Other Office,Yes
+1000142917,482,CONF,3454.13,CONF,Yes
+1000142962,483,E. S. Witchger School of Engineering,5630.2,Core Learning Space: College/University,Yes
+1000143027,484,Fountain Square One,24612.61,Office: Administrative/Professional,Yes
+1000143029,485,Fountain Square Two,28155.0,Office: Administrative/Professional,Yes
+1000143040,486,KP BELLFLOWER RAD ONC & IMAGING,3095.16,Healthcare: Outpatient Office (Diagnostic),Yes
+1000143110,487,Raumplus wuxi new office building,11232.0,Industrial Manufacturing,Yes
+1000143114,488,Boston Engine No. 17,1987.75,Public Order and Safety: Fire/Police Station,Yes
+1000143188,489,Sumner Square,21230.19,Office: Administrative/Professional,Yes
+1000143276,490,CONF,3812.27,CONF,Yes
+1000143367,491,Kingstowne Center T,14878.6,Office: Administrative/Professional,Yes
+1000143369,492,Discovery Square I,17506.36,Office: Administrative/Professional,Yes
+1000143373,493,Reston Overlook I,32088.05,Office: Administrative/Professional,Yes
+1000143375,494,Reston Overlook II,13082.79,Office: Administrative/Professional,Yes
+1000143390,495,Kingstowne Center K,15052.98,Office: Administrative/Professional,Yes
+1000143392,496,Discovery Square II,18535.82,Office: Administrative/Professional,Yes
+1000143491,497,Brightview Hunt Valley Towne Centre,19018.92,Multi-Family Residential: Apartment,Yes
+1000143497,498,MAPAL India Private Limited,1741.0,Office: Administrative/Professional,Yes
+1000143561,499,B340s Renovation,5866.17,Laboratory,Yes
+1000143575,500,UCR SOM Education Building II,8870.01,Core Learning Space: College/University,Yes
+1000143656,501,Fire Station No. 5,916.0,Public Order and Safety: Fire/Police Station,Yes
+1000143724,502,"Extra Space Storage - Kenmore, NY",7721.91,Warehouse: Self Storage Units,Yes
+1000143963,503,CONF,6483.0,CONF,Yes
+1000143974,504,Global Home of the PGA TOUR,18864.14,Office: Administrative/Professional,Yes
+1000144301,505,Des Moines University West,35487.27,Core Learning Space: College/University,Yes
+1000144336,506,Nucor - BB Mill Building,134969.48,Industrial Manufacturing,Yes
+1000144452,507,CONF,68826.0,CONF,Yes
+1000144834,508,White Fence Farm Clubhouse,661.66,Other,Yes
+1000144850,509,Sumter County Rest Area - Southbound,845.42,Public Assembly: Other Assembly,Yes
+1000144861,510,Southeastern Live Well Center,6047.99,Office: Government,Yes
+1000144941,511,archimania's Office,691.57,Office: Administrative/Professional,Yes
+1000145380,512,Hogg Memorial Auditorium Major Reno,2731.91,Public Assembly: Entertainment,Yes
+1000145433,513,Casa Heribert Pons,6390.8,Office: Administrative/Professional,Yes
+1000145484,514,MAGNET Headquarters,5249.02,Office: Other Office,Yes
+1000145703,515,KOA Corporate Headquarters,3162.42,Office: Administrative/Professional,Yes
+1000145818,516,CONF,1604.81,CONF,Yes
+1000145825,517,CONF,4698.29,CONF,Yes
+1000145826,518,CONF,389.26,CONF,Yes
+1000145930,519,Aspen Distillery,510.97,Other,Yes
+1000146094,520,Gallery Building at Basalt River Park,2459.14,Other,Yes
+1000146237,521,MASERGRUP LEED CORPORATE BUILDING,8310.0,Warehouse: General,Yes
+1000146607,522,CONF,38135.0,CONF,Yes
+1000146609,523,CONF,21200.0,CONF,Yes
+1000146947,524,Kansas City Streetcar VMF,2904.89,Other,Yes
+1000146948,525,Kansas City Streetcar Annex,566.71,Other,Yes
+1000146956,526,Studentato Moretta Cesana,20043.0,Lodging: Dormitory,Yes
+1000146998,527,Berea College CMIT Building,4530.04,Core Learning Space: College/University,Yes
+1000147133,528,EVC Language Arts Building,4476.72,Core Learning Space: College/University,Yes
+1000147188,529,Merriam Plaza Library,1393.54,Public Assembly: Library,Yes
+1000147195,530,Weathervane Health and Wellness Center,629.79,Public Assembly: Recreation,Yes
+1000147228,531,SMU Frances Anne Moody Hall,4902.31,Core Learning Space: College/University,Yes
+1000147248,532,First Security Bank Missoula,3881.95,Office: Financial,Yes
+1000147424,533,Sparrow Emergency Center Okemos,2972.9,Healthcare: Outpatient Office (Diagnostic),Yes
+1000147553,534,Fulton County Animal Services Facility,5157.42,Office: Government,Yes
+1000147707,535,Command Control Smart Governance Centre,5254.0,Office: Government,Yes
+1000147853,536,Haiyin Square-Changchun,115483.0,Office: Mixed-Use,Yes
+1000147940,537,New Spokane Valley Library,2550.09,Public Assembly: Library,Yes
+1000147982,538,Vero at Novus,13430.52,Multi-Family Residential: Condominium,Yes
+1000148043,539,Siege Social Equipe Laurence,1835.0,Office: Mixed-Use,Yes
+1000148068,540,PeaceHealth Lynden Clinic,2266.18,Healthcare: Clinic/Other Outpatient,Yes
+1000148363,541,CONF,7940.42,CONF,Yes
+1000148491,542,Alibaba Xuhui Binjiang Park D,40720.0,Office: Mixed-Use,Yes
+1000148722,543,Project Storm,34278.51,Industrial Manufacturing,Yes
+1000148837,544,1910 Alton Road,1474.09,Office: Mixed-Use,Yes
+1000148852,545,Charlotte J. Burrie Civic Center,809.37,Public Assembly: Other Assembly,Yes
+1000149377,546,Sede Sicredi Dexis,11035.0,Office: Administrative/Professional,Yes
+1000149430,547,Port of Edmonds Administration Building,1079.53,Office: Mixed-Use,Yes
+1000149594,548,PCM Parcel F - Signal House,19149.91,Multi-Family Residential: Apartment,Yes
+1000149987,549,Boys and Girls Club of Chicago,2787.09,Public Assembly: Recreation,Yes
+1000149998,550,CONF,7112.65,CONF,Yes
+1000150288,551,CONF,7077.0,CONF,Yes
+1000150483,552,CONF,8236.59,CONF,Yes
+1000150601,553,CityLine Block 3S,55891.98,Multi-Family Residential: Apartment,Yes
+1000150606,554,AVOYA ICECEK FABRIKASI,12866.0,Other,Yes
+1000150656,555,Highland Bridge Lot 1 Block 3,40466.32,Multi-Family Residential: Apartment,Yes
+1000150667,556,Highland Bridge Blocks 6/7 Senior Living,35088.07,Healthcare: Nursing Home/ Assisted Living,Yes
+1000150824,557,Blomquist Street Navigation Center,3437.41,Lodging: Other lodging,Yes
+1000151038,558,DMG MORI PH Machine Green Plant project,38240.0,Industrial Manufacturing,Yes
+1000151044,559,NXpark Xi'an by Aden,28896.0,Industrial Manufacturing,Yes
+1000151148,560,101 N. Meridian,29175.72,Multi-Family Residential: Apartment,Yes
+1000151187,561,1102 Q Street,14472.71,Office: Administrative/Professional,Yes
+1000151213,562,Belmont University Jack C Massey Center,12859.82,Core Learning Space: College/University,Yes
+1000151480,563,SBVR - Plaza and Promenade Building,3244.82,Retail: Other Retail,Yes
+1000151579,564,JM Family - Office C,8181.13,Office: Administrative/Professional,Yes
+1000151584,565,Woodlake MOB,6228.77,Office: Medical (Non-Diagnostic),Yes
+1000151610,566,Swedish Medical Center MOB II/III,15636.96,Healthcare: Clinic/Other Outpatient,Yes
+1000151686,567,KALYON SCADA Ofis Binasi,2577.0,Office: Administrative/Professional,Yes
+1000151824,568,Penn GSE Expansion,1872.92,Core Learning Space: College/University,Yes
+1000151888,569,Park Place Shopping Centre,52051.14,Retail: Enclosed Mall,Yes
+1000151928,570,IUH NE Region - Southwest MOB,4969.38,Office: Medical (Non-Diagnostic),Yes
+1000152132,571,SDCRAA Administration Building,12581.3,Airport: Office,Yes
+1000152133,572,CityLine 4,49915.95,Office: Administrative/Professional,Yes
+1000152208,573,GVSU Harris Family Sports Complex,1997.41,Public Assembly: Recreation,Yes
+1000152250,574,MP-HT Srl,4800.0,Industrial Manufacturing,Yes
+1000152287,575,Luthra Group Headquarters,3611.0,Office: Administrative/Professional,Yes
+1000152377,576,The Sonnentag,19014.09,Public Assembly: Recreation,Yes
+1000152512,577,"Vanderbilt Tower at Ritz-Carlton, Naples",10219.33,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000152653,578,Contra Costa County Admin Building,4335.69,Office: Government,Yes
+1000152661,579,2876 Sunridge Way NE,2787.09,Industrial Manufacturing,Yes
+1000152671,580,Samsung Display Research Building,166530.0,Office: Other Office,Yes
+1000152813,581,Sarasota Fire Station 23,808.53,Public Order and Safety: Fire/Police Station,Yes
+1000152825,582,Sparsh Business School,17163.0,Core Learning Space: College/University,Yes
+1000152830,583,CONF,33708.0,CONF,Yes
+1000152923,584,CONF,6728.0,CONF,Yes
+1000153740,585,Merck RY870 Biologics Development Center,19568.07,Laboratory,Yes
+1000154667,586,UMD Field Hockey and Lacrosse Complex,1584.93,Public Assembly: Recreation,Yes
+1000154737,587,GDH BCC-Tower A,138905.0,Office: Administrative/Professional,Yes
+1000154761,588,Beylerbeyi Yurt Insaati Projesi,2716.0,Lodging: Dormitory,Yes
+1000154829,589,CONF,34207.81,CONF,Yes
+1000154873,590,Miami Association of Realtors,3065.8,Office: Other Office,Yes
+1000155363,591,MU McVey Data Science Building,8803.21,Core Learning Space: College/University,Yes
+1000155445,592,CONF,7364.05,CONF,Yes
+1000155506,593,Ceylingul Tekstil Fabrika,3419.0,Other,Yes
+1000155567,594,CONF,5470.0,CONF,Yes
+1000155598,595,CONF,4082.44,CONF,Yes
+1000155646,596,LEGO Jiaxing Moulding 3 Building,13892.0,Industrial Manufacturing,Yes
+1000155647,597,New Processing,185698.8,Industrial Manufacturing,Yes
+1000155699,598,The Medley,19452.03,Multi-Family Residential: Apartment,Yes
+1000155948,599,McGill University Collections Centre,3969.0,Warehouse: Self Storage Units,Yes
+1000156023,600,CONF,47224.08,CONF,Yes
+1000156071,601,CONF,12991.37,CONF,Yes
+1000156231,602,DHL Alliance C,120773.9,Warehouse: General,Yes
+1000156321,603,Mahindra Educational-Hostel Phase III,1858.06,Lodging: Dormitory,Yes
+1000156502,604,Residenza per Studenti Novoli,13504.0,Other,Yes
+1000156601,605,Project Instinct - Ph 1,13055.01,Industrial Manufacturing,Yes
+1000156816,606,Kalamazoo Dept. Public Safety Station 2,1632.77,Public Order and Safety: Fire/Police Station,Yes
+1000156844,607,CARRIER  PLAZA,37183.0,Office: Mixed-Use,Yes
+1000156983,608,Comcast NBCUniversal THE COMMONS,6841.01,Public Assembly: Social/Meeting,Yes
+1000157031,609,Thesis Agency,3715.01,Office: Administrative/Professional,Yes
+1000157039,610,Production,17922.0,Industrial Manufacturing,Yes
+1000157046,611,Merck Wuxi-Admin,3102.0,Office: Administrative/Professional,Yes
+1000157076,612,CONF,27311.44,CONF,Yes
+1000157082,613,CONF,26296.19,CONF,Yes
+1000157222,614,Residenza Anni Azzurri Borgomanero,5887.0,Healthcare: Nursing Home/ Assisted Living,Yes
+1000157242,615,PCCO Cincinnati Office,2165.85,Office: Administrative/Professional,Yes
+1000157280,616,CONF,24110.93,CONF,Yes
+1000157282,617,CONF,28665.13,CONF,Yes
+1000157306,618,CONF,57504.0,CONF,Yes
+1000157393,619,NUOVA SEDE FONDAZIONE DALMINE,4418.0,Other,Yes
+1000157397,620,305 Arsenal Street,418.06,Other,Yes
+1000157402,621,400 N. Beacon Street,2054.74,Public Assembly: Social/Meeting,Yes
+1000157508,622,Edificio ALMA by ROYAL,7913.0,Office: Administrative/Professional,Yes
+1000157572,623,Edificio Produttivo Raddoppio,25526.0,Industrial Manufacturing,Yes
+1000157579,624,Niagara Street Studio,6474.13,Office: Other Office,Yes
+1000157587,625,SERRA Montreal,16030.97,Multi-Family Residential: Apartment,Yes
+1000157594,626,2001 boulevard Robert-Bourassa,49538.2,Office: Administrative/Professional,Yes
+1000157916,627,Clark University CMACD,5931.11,Core Learning Space: College/University,Yes
+1000158019,628,Oxyturbo - Nuovo stabilimento produttivo,6000.0,Industrial Manufacturing,Yes
+1000158162,629,CONF,12192.0,CONF,Yes
+1000158866,630,CONF,22709.49,CONF,Yes
+1000158921,631,Bldg 1 of Tianjin Lenovo Innovation Park,8632.0,Other,Yes
+1000158986,632,CONF,555.56,CONF,Yes
+1000159056,633,Tanager Echo,29773.93,Multi-Family Residential: Apartment,Yes
+1000159189,634,Westinghouse Rock Hill Building 3,2095.89,Office: Administrative/Professional,Yes
+1000159216,635,Parkridge Four,17870.73,Office: Mixed-Use,Yes
+1000159306,636,CONF,2043.87,CONF,Yes
+1000159391,637,CONF,3601.38,CONF,Yes
+1000159468,638,CONF,17577.81,CONF,Yes
+1000159510,639,TEKNOPLAZA Water&Environmental Solutions,2260.0,Office: Administrative/Professional,Yes
+1000159574,640,1241 W St NE,1129.24,Office: Government,Yes
+1000159597,641,101 Workshop Building,5154.0,Laboratory,Yes
+1000159598,642,103 R&D Building,17899.0,Laboratory,Yes
+1000159890,643,CONF,8901.87,CONF,Yes
+1000160212,644,Security Building,1121.34,Public Order and Safety: Other Public Order,Yes
+1000160298,645,ARE FujiFilm BIC2,7641.55,Office: Other Office,Yes
+1000160351,646,"GRUPPO BCC ICCREA - Milan, via Esterle",6059.0,Office: Financial,Yes
+1000160359,647,Firefly Pavilion,455.22,Other,Yes
+1000160489,648,J&J Horsham Commons,3645.51,Other,Yes
+1000160496,649,Midstation Bellevue,23661.65,Office: Mixed-Use,Yes
+1000160510,650,Teknopark Idari Bina - A Blok,9221.0,Office: Administrative/Professional,Yes
+1000160516,651,CONF,25077.68,CONF,Yes
+1000160581,652,Jardin de Enekuri,4094.0,Other,Yes
+1000160592,653,SEFINE TERSANESI SOSYAL TESIS BINASI,12595.0,Office: Mixed-Use,Yes
+1000160869,654,Monterey Regional Airport ARFF,929.03,Airport: Public Order/Fire/Police,Yes
+1000161040,655,Chapter Madison,20463.28,Multi-Family Residential: Apartment,Yes
+1000161051,656,CONF,1976.0,CONF,Yes
+1000161166,657,CONF,14750.0,CONF,Yes
+1000161168,658,CONF,847.0,CONF,Yes
+1000161221,659,SNAM RETE GAS - CENTRO MANUTEN. DI MASSA,1779.0,Office: Other Office,Yes
+1000161243,660,Enriching Spaces,1672.25,Office: Administrative/Professional,Yes
+1000161330,661,TOTAL Energies - IGA,530.96,Retail: Convenience Store,Yes
+1000161340,662,Gillette Stadium,98690.49,Public Assembly: Stadium/Arena,Yes
+1000161661,663,CONF,7722.19,CONF,Yes
+1000161750,664,Penske Boise,1833.91,Office: Mixed-Use,Yes
+1000161755,665,Penske Lowell,1854.99,Office: Mixed-Use,Yes
+1000161766,666,ESSILOR LUXOTTICA,49178.0,Industrial Manufacturing,Yes
+1000161781,667,Ellis Campus C&D,20827.92,Office: Administrative/Professional,Yes
+1000161816,668,CONF,161925.01,CONF,Yes
+1000161819,669,CONF,166818.48,CONF,Yes
+1000162183,670,Beck Venture Center,2901.36,Office: Administrative/Professional,Yes
+1000162206,671,RESIDENCIA PARA MAYORES CAJA DE BURGOS,5600.0,Healthcare: Nursing Home/ Assisted Living,Yes
+1000162213,672,Reck Garage,93.18,Transit: Maintenance/Storage,Yes
+1000162261,673,Nucor - BB Materials Testing Lab,914.72,Industrial Manufacturing,Yes
+1000162281,674,Nuova Sede Banca Sella,13070.0,Office: Administrative/Professional,Yes
+1000162357,675,Microsoft SISPARK B26,23993.0,Office: Mixed-Use,Yes
+1000162363,676,Tenaris Etihad Tubulars - Sole Proprieto,2167.0,Office: Administrative/Professional,Yes
+1000162430,677,De la Vega Business Park,23275.0,Office: Administrative/Professional,Yes
+1000162745,678,Brookings DHS,2097.84,Office: Government,Yes
+1000162751,679,CPFL ENERGIA RGE - EA VENANCIO AIRES,658.0,Other,Yes
+1000162913,680,University of Illinois Foundation,5225.05,Office: Administrative/Professional,Yes
+1000162917,681,Fairfield University Bowman Hall,4290.63,Lodging: Dormitory,Yes
+1000162940,682,Atal Akshay Urja Bhawan,24045.0,Office: Government,Yes
+1000162951,683,Alliance Center Building 2,60038.56,Warehouse: General,Yes
+1000162969,684,CONF,12796.46,CONF,Yes
+1000163113,685,8th and Fig,45139.52,Multi-Family Residential: Apartment,Yes
+1000163207,686,TOTAL Energies - KMO Kuzey,473.9,Retail: Convenience Store,Yes
+1000163209,687,TOTAL Energies - KMO Izmit OSB Guney,494.04,Retail: Convenience Store,Yes
+1000163211,688,TOTAL Energies - KMO Izmit OSB Kuzey,494.04,Retail: Convenience Store,Yes
+1000163213,689,TOTAL Energies - Orhangazi Bati,346.0,Retail: Convenience Store,Yes
+1000163215,690,TOTAL Energies - Orhangazi Dogu,346.0,Retail: Convenience Store,Yes
+1000163433,691,Central City Office Tower,96477.72,Office: Mixed-Use,Yes
+1000163435,692,Central City Shopping Centre,58158.58,Retail: Enclosed Mall,Yes
+1000163502,693,6750 Esplanade,9290.0,Office: Mixed-Use,Yes
+1000163506,694,ZaZEN Gardens,19815.75,Multi-Family Residential: Apartment,Yes
+1000163696,695,CONF,8861.83,CONF,Yes
+1000163841,696,12 Farnsworth Research and Development,5458.05,Laboratory,Yes
+1000164013,697,Vlinker Pujiang Central Community 29-1,16268.0,Multi-Family Residential: Apartment,Yes
+1000164018,698,Vlinker Pujiang Central Community 29-2,15538.0,Multi-Family Residential: Apartment,Yes
+1000164090,699,Isoteks Tekstil,8800.0,Industrial Manufacturing,Yes
+1000164180,700,Complexo Ache Cultural,39098.0,Office: Mixed-Use,Yes
+1000164327,701,Vlinker Pujiang Central Community 29-3,7140.0,Multi-Family Residential: Apartment,Yes
+1000164329,702,Vlinker Pujiang Central Community 29-4,7140.0,Multi-Family Residential: Apartment,Yes
+1000164331,703,Vlinker Pujiang Central Community 30-1,19068.0,Multi-Family Residential: Apartment,Yes
+1000164333,704,Vlinker Pujiang Central Community 30-2,4450.0,Multi-Family Residential: Apartment,Yes
+1000164340,705,nol-universe office,45732.0,Office: Mixed-Use,Yes
+1000164472,706,Women's Resource Center,866.04,Office: Administrative/Professional,Yes
+1000164496,707,1625 Vanier Parkway,30865.0,Office: Administrative/Professional,Yes
+1000164500,708,222 Nepean Street,14887.0,Office: Administrative/Professional,Yes
+1000164650,709,Countryside Clearwater Branch 4.1,1062.44,Office: Financial,Yes
+1000164653,710,Pinellas Branch 4.1,425.87,Office: Financial,Yes
+1000164708,711,CONF,13374.32,CONF,Yes
+1000164817,712,Masdar M13B Office,4782.0,Office: Administrative/Professional,Yes
+1000164960,713,City Center at Hanna Ave,13511.91,Office: Government,Yes
+1000165189,714,575 Lexington Avenue,62877.4,Office: Mixed-Use,Yes
+1000165201,715,CONF,54441.0,CONF,Yes
+1000165326,716,CONF,62875.42,CONF,Yes
+1000165555,717,CONF,3979.04,CONF,Yes
+1000165587,718,FSU - Early Learning Center,869.57,Core Learning Space: Preschool/Daycare,Yes
+1000165714,719,CONF,17900.0,CONF,Yes
+1000165859,720,General Express Office,1859.92,Office: Mixed-Use,Yes
+1000166022,721,CONF,76266.29,CONF,Yes
+1000166023,722,CONF,165512.0,CONF,Yes
+1000166171,723,Palm Coast Southern Recreation Center,1031.69,Public Assembly: Recreation,Yes
+1000166293,724,2022 US Paint Hangars - AB 4 & 5,8673.33,Airport: Hangar,Yes
+1000166295,725,Reveal Playa Vista,24299.99,Multi-Family Residential: Apartment,Yes
+1000166482,726,Airbus-Dual Bay Flightline Hangar 25,10183.0,Airport: Hangar,Yes
+1000166483,727,Airbus-Dual Bay Flightline Hangar 26,10183.0,Airport: Hangar,Yes
+1000166545,728,Canakkale Belediyesi Binasi,25161.0,Office: Government,Yes
+1000166641,729,Houston Zoo - Birds of the World,438.6,Other,Yes
+1000166735,730,West,76384.01,Multi-Family Residential: Apartment,Yes
+1000166850,731,CONF,3333.0,CONF,Yes
+1000166941,732,PCBL Limited - Durgapur,464.52,Office: Administrative/Professional,Yes
+1000166977,733,OFICINAS ARAGO 182,4964.0,Office: Administrative/Professional,Yes
+1000167019,734,8620 Spectrum Center,26275.76,Office: Mixed-Use,Yes
+1000167135,735,PCBL Limited - Kochi,371.61,Office: Administrative/Professional,Yes
+1000167136,736,Pyeongtaek Gisul2dong,48853.0,Office: Mixed-Use,Yes
+1000167140,737,PCBL Limited - Mundra,353.03,Office: Administrative/Professional,Yes
+1000167192,738,SOFI II,17708.0,Industrial Manufacturing,Yes
+1000167408,739,Dartmouth College - Andres Hall,3075.65,Lodging: Dormitory,Yes
+1000167455,740,Carter Creek Meadows 5800,8692.75,Office: Administrative/Professional,Yes
+1000167457,741,Carter Creek Meadows 6000,10350.51,Office: Administrative/Professional,Yes
+1000167487,742,Eon-Hinjewadi Infrastructure Pvt. Ltd.,20183.18,Office: Other Office,Yes
+1000167527,743,Festival Tower,54784.0,Office: Mixed-Use,Yes
+1000167553,744,Atkins Technology Center,2972.9,Office: Other Office,Yes
+1000167796,745,MDRT - 325 W Touhy,3344.51,Office: Financial,Yes
+1000167887,746,Emerson Innovation Centre,22293.93,Office: Other Office,Yes
+1000167889,747,CONF,144649.97,CONF,Yes
+1000167909,748,Zordan Usa Inc.,3390.96,Warehouse: General,Yes
+1000167943,749,CONF,12350.0,CONF,Yes
+1000167957,750,CONF,16683.8,CONF,Yes
+1000168316,751,CONF,2693.0,CONF,Yes
+1000168356,752,Kansas City Current Stadium,28323.9,Public Assembly: Stadium/Arena,Yes
+1000168488,753,Akcansa Port Office,760.0,Office: Administrative/Professional,Yes
+1000168494,754,CONF,22357.29,CONF,Yes
+1000168599,755,Pfizer Moraleja MAD,16234.0,Office: Mixed-Use,Yes
+1000168653,756,Wilmington Cold Storage,26772.23,Warehouse: Refrigerated,Yes
+1000168715,757,MERLIN PROPERTIES - Balmes 236,7202.0,Office: Medical (Non-Diagnostic),Yes
+1000168735,758,MERLIN PROPERTIES - P.E. Via Norte Ed. 5,7531.0,Office: Administrative/Professional,Yes
+1000168772,759,Cite du Multimedia - 50 Queen,3414.56,Office: Administrative/Professional,Yes
+1000168796,760,Cite du Multimedia 80 Queen & 87 Prince,18417.0,Office: Administrative/Professional,Yes
+1000168799,761,Cite du Multimedia - 111 Robert-Bourassa,40424.32,Office: Administrative/Professional,Yes
+1000168825,762,Maersk Damco Office,325.81,Office: Mixed-Use,Yes
+1000168851,763,CENTRO EMPRESARIAL MARIO GARNERO TS,16960.25,Office: Mixed-Use,Yes
+1000168855,764,CENTRO EMPRESARIAL MARIO GARNERO TN,17795.12,Office: Mixed-Use,Yes
+1000169018,765,DB TARIMSAL ENERJI OFFICE BUILDING,955.0,Office: Administrative/Professional,Yes
+1000169049,766,Akkom Ofis Park 2. Blok Cessas Plaza,36949.0,Office: Administrative/Professional,Yes
+1000169070,767,CONF,1371.0,CONF,Yes
+1000169095,768,UAL FTC Expansion Building H,14231.16,Airport: Other,Yes
+1000169170,769,CONF,9290.3,CONF,Yes
+1000169183,770,CONF,158936.0,CONF,Yes
+1000169261,771,CONF,1382.56,CONF,Yes
+1000169319,772,Greenacres Residential Care,686.0,Healthcare: Nursing Home/ Assisted Living,Yes
+1000169385,773,"5454 Wisconsin Avenue, Barlow Building",29007.01,Office: Medical (Non-Diagnostic),Yes
+1000169516,774,Vigasio Logistic Center,11931.0,Warehouse: Refrigerated,Yes
+1000169526,775,AVERY DENNISON MX QUERETARO III,2536.2,Industrial Manufacturing,Yes
+1000169547,776,A01 - Operation & Ventilation Building,30743.0,Industrial Manufacturing,Yes
+1000169548,777,A02 - B2B & B2C Receiving and Storage,12162.0,Warehouse: General,Yes
+1000169549,778,A03 - Cafeteria,1510.0,Public Assembly: Other Assembly,Yes
+1000169556,779,OFICINAS CORPORATIVAS MEDICALMIX,5393.0,Office: Administrative/Professional,Yes
+1000169643,780,CONF,34812.98,CONF,Yes
+1000169646,781,CONF,5757.0,CONF,Yes
+1000169648,782,CONF,43481.02,CONF,Yes
+1000169650,783,CONF,15364.02,CONF,Yes
+1000169654,784,CONF,8413.02,CONF,Yes
+1000169662,785,CONF,19236.96,CONF,Yes
+1000169910,786,KOSTAL,21539.93,Industrial Manufacturing,Yes
+1000169917,787,Central Park Towers- Commercial & Retail,184685.0,Office: Mixed-Use,Yes
+1000169963,788,SUBCONDOMINIO EDIFICIO VILLA LOBOS,24967.65,Office: Mixed-Use,Yes
+1000170040,789,Pathway Devens Amenity Building,668.9,Other,Yes
+1000170043,790,Westgate Tower,22386.0,Office: Mixed-Use,Yes
+1000170118,791,Hotel Samrat,35142.0,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000170221,792,Nutrabolt Austin,7184.93,Office: Administrative/Professional,Yes
+1000170239,793,1112 Fort St,5002.83,Office: Mixed-Use,Yes
+1000170268,794,Project Legs,165154.31,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000170372,795,"ZF CVCS India Ltd, Oragadam",9185.88,Industrial Manufacturing,Yes
+1000170697,796,Bank of America Wellesley,681.26,Retail: Bank Branch,Yes
+1000170770,797,Merck RedOx Project,2278.0,Office: Administrative/Professional,Yes
+1000170833,798,Perimeter Park 1,18952.21,Office: Mixed-Use,Yes
+1000170838,799,Perimeter Park 3,22793.94,Office: Mixed-Use,Yes
+1000170892,800,100 Colonial TownPark,14847.57,Office: Administrative/Professional,Yes
+1000170930,801,HCSC Illinois HQ- 300 E Randolph,181409.64,Office: Mixed-Use,Yes
+1000170981,802,Two Buckhead Plaza,19974.14,Office: Mixed-Use,Yes
+1000171066,803,Jet Propulsion Laboratory Building 111,3874.15,Office: Government,Yes
+1000171079,804,Renishaw,3305.0,Office: Mixed-Use,Yes
+1000171113,805,Residencia de estudiantes VIC1 Madrid,1850.0,Lodging: Dormitory,Yes
+1000171114,806,Residencia de estudiantes VIC2 Madrid,2200.0,Lodging: Dormitory,Yes
+1000171120,807,Hotel-Apartamentos 1 Estrella,10050.0,Other,Yes
+1000171123,808,Alton Lennon Federal Courthouse,6049.84,Office: Government,Yes
+1000171190,809,Zurbaran 28,2945.57,Office: Administrative/Professional,Yes
+1000171401,810,Le Campus Henry Ford : batiment Walmart,42533.0,Warehouse: General,Yes
+1000171607,811,Sycamore Plaza I,11375.23,Office: Mixed-Use,Yes
+1000171617,812,SAGS APPARELS,4258.12,Other,Yes
+1000171827,813,Airbus ALSC - No.A01 MRO Hangar,48089.0,Airport: Hangar,Yes
+1000171828,814,Airbus ALSC - No.B01 Offices,5248.0,Airport: Office,Yes
+1000171865,815,WILO INDIA - OFFICE BUILDING - KESURDI,5425.0,Office: Administrative/Professional,Yes
+1000171869,816,Kunshan Daiffy Castle-style Factory,25193.0,Industrial Manufacturing,Yes
+1000171875,817,KUNSHAN PROFESSIONAL FOOTBALL STADIUM,51739.0,Public Assembly: Stadium/Arena,Yes
+1000172416,818,EDIFICIO CARLTON TOWER,8594.0,Office: Administrative/Professional,Yes
+1000172455,819,ERICSSON Telecomunicacoes - Fabrica SJC,27365.86,Industrial Manufacturing,Yes
+1000172584,820,Corporate Center I,37012.46,Office: Administrative/Professional,Yes
+1000172586,821,Corporate Center II,27869.41,Office: Administrative/Professional,Yes
+1000172589,822,Corporate Center III,27869.41,Office: Administrative/Professional,Yes
+1000172591,823,Corporate Center IV,24184.6,Office: Administrative/Professional,Yes
+1000172594,824,The Pointe,25049.44,Office: Mixed-Use,Yes
+1000172650,825,SEWC IV R&D,13903.0,Office: Mixed-Use,Yes
+1000172652,826,SEWC IV P&W,29866.0,Industrial Manufacturing,Yes
+1000172653,827,Grundfos Dragon Office,5856.0,Office: Mixed-Use,Yes
+1000172654,828,Grundfos Dragon P&W,26864.0,Industrial Manufacturing,Yes
+1000172663,829,Good Earth Business Bay I,23770.81,Office: Mixed-Use,Yes
+1000172777,830,BorgWarner TianJin Complex Factory,28511.0,Industrial Manufacturing,Yes
+1000172804,831,GOYA 24,4286.0,Office: Administrative/Professional,Yes
+1000172840,832,Cheongju SUPEX Center,44254.0,Office: Mixed-Use,Yes
+1000172849,833,PCL Factory,20287.0,Industrial Manufacturing,Yes
+1000172874,834,CXMT FAB2-1,107470.0,Industrial Manufacturing,Yes
+1000172944,835,Beijing First Capital Plaza 1,3593.0,Office: Mixed-Use,Yes
+1000172946,836,Beijing First Capital Plaza 2,3280.0,Office: Mixed-Use,Yes
+1000172950,837,Beijing First Capital Plaza 5,6556.0,Office: Mixed-Use,Yes
+1000173024,838,One11 West Illinois,22485.78,Office: Mixed-Use,Yes
+1000173029,839,Corner Brook Aquatic & Daycare Centre,3737.0,Public Assembly: Recreation,Yes
+1000173039,840,Continental Changzhou Phase 3 Expansion,12567.0,Industrial Manufacturing,Yes
+1000173073,841,MARS Tianjin - Factory,30911.0,Industrial Manufacturing,Yes
+1000173074,842,MARS Tianjin - Office,3316.0,Office: Administrative/Professional,Yes
+1000173114,843,Innoventbio Global Research Center,107000.0,Office: Mixed-Use,Yes
+1000173127,844,Gulipek Yalova,10727.0,Industrial Manufacturing,Yes
+1000173181,845,Nu Skin New PC Plant 1,5712.0,Industrial Manufacturing,Yes
+1000173182,846,Nu Skin New PC Plant 2,27497.0,Industrial Manufacturing,Yes
+1000173187,847,Factory Building of BRVS Exports LLP,8750.0,Other,Yes
+1000173194,848,Industrial Building on Plot A 204,7514.0,Other,Yes
+1000173304,849,GKNMH iOP,19742.82,Healthcare: Outpatient Office (Diagnostic),Yes
+1000173358,850,China Mobile ZJ ICI Park-E01 Substation,2360.0,Service: Other Service,Yes
+1000173408,851,The Joseph Shepard Building,665058.97,Office: Government,Yes
+1000173471,852,ING Bank Turkey Operations Center,6954.9,Office: Administrative/Professional,Yes
+1000173474,853,ING Bank Turkey Izmir Regional Dir.,2647.46,Office: Administrative/Professional,Yes
+1000173490,854,One Dundas West,50853.8,Office: Administrative/Professional,Yes
+1000173686,855,540 West Madison,113553.57,Office: Mixed-Use,Yes
+1000173714,856,Batman Ford-Toyota Bayi ve Servisi,9896.0,Service: Vehicle Storage/Maintenance,Yes
+1000173756,857,Hudson Commons,64823.81,Office: Administrative/Professional,Yes
+1000173927,858,Beijing Hanwei Plaza,105987.0,Office: Administrative/Professional,Yes
+1000173986,859,OFICINAS MODULO 7 - ILLA DIAGONAL,6976.0,Office: Administrative/Professional,Yes
+1000174024,860,6055 Lusk,8754.25,Laboratory,Yes
+1000174049,861,CONF,1365.0,CONF,Yes
+1000174111,862,Elazig Saka Tekstil Fabrikasi,44389.0,Other,Yes
+1000174216,863,COSD YTC Phase II - Youth Development,1440.0,Office: Other Office,Yes
+1000174219,864,COSD YTC Phase II - Education Complex,927.92,Core Learning Space: Other classroom education,Yes
+1000174220,865,COSD YTC Phase II - Housing Units,3010.06,Lodging: Other lodging,Yes
+1000174355,866,CONF,12871.0,CONF,Yes
+1000174546,867,Central Plaza,130134.0,Office: Administrative/Professional,Yes
+1000174654,868,Smic Lingang Project Phase I,149253.0,Other,Yes
+1000174888,869,31 West 27th Street,13304.45,Office: Other Office,Yes
+1000174895,870,700 Jamieson Parkway,10334.72,Office: Mixed-Use,Yes
+1000174988,871,REICON - Unidade Sorocaba,4934.0,Industrial Manufacturing,Yes
+1000175017,872,KAKAO AI CAMPUS,14682.0,Office: Mixed-Use,Yes
+1000175024,873,COZI Apartment East Bund,11427.0,Lodging: Other lodging,Yes
+1000175037,874,CEVAHIR AVM,353426.0,Retail: Enclosed Mall,Yes
+1000175165,875,Penske Channahon,2153.49,Service: Vehicle Service/Repair,Yes
+1000175169,876,Penske Madison,1506.24,Service: Vehicle Service/Repair,Yes
+1000175173,877,Penske Pensacola,2182.94,Service: Vehicle Service/Repair,Yes
+1000175232,878,"NVIDIA Refurbishment Project, Hyderabad",4884.38,Office: Mixed-Use,Yes
+1000175266,879,Paracelso 22-26,15745.0,Office: Administrative/Professional,Yes
+1000175296,880,Sentral West Midtown at Star Metals,46966.74,Multi-Family Residential: Apartment,Yes
+1000175300,881,Sentral Michigan Avenue,43056.27,Multi-Family Residential: Apartment,Yes
+1000175322,882,RONG XI NO.1 220kV SUBSTATION,3999.0,Office: Mixed-Use,Yes
+1000175351,883,48 West 25th Street,11805.09,Office: Other Office,Yes
+1000175381,884,Comcast Center Recertification,142973.91,Office: Mixed-Use,Yes
+1000175413,885,SIG COMBIBLOC CHILLED CARTON PLANT,20466.0,Industrial Manufacturing,Yes
+1000175587,886,2445 M Street,28781.35,Office: Mixed-Use,Yes
+1000175683,887,CONF,18591.0,CONF,Yes
+1000175764,888,Corporate Park,21985.0,Office: Administrative/Professional,Yes
+1000176177,889,CONF,8922.0,CONF,Yes
+1000176319,890,CONF,2792.0,CONF,Yes
+1000176440,891,1755 Blake,11547.47,Office: Other Office,Yes
+1000176456,892,Neovia,20438.66,Warehouse: General,Yes
+1000176561,893,GALENICUM HEADQUARTERS,2970.0,Office: Mixed-Use,Yes
+1000176581,894,The Pinnacle Gangnam,36539.0,Office: Mixed-Use,Yes
+1000176647,895,EQUUS 335 Torre 1,27116.71,Office: Administrative/Professional,Yes
+1000176651,896,EQUUS 335 Torre 2,28068.97,Office: Administrative/Professional,Yes
+1000176653,897,EQUUS 444 Torre Norte,14405.63,Office: Administrative/Professional,Yes
+1000176655,898,EQUUS 444 Torre Sur,14405.63,Office: Administrative/Professional,Yes
+1000176657,899,Torre Axiss,23727.52,Office: Administrative/Professional,Yes
+1000176669,900,260 11th Avenue,19448.5,Office: Mixed-Use,Yes
+1000176745,901,606 Broadway,3366.53,Office: Mixed-Use,Yes
+1000176832,902,Heartland Corporate Centre,43695.63,Office: Mixed-Use,Yes
+1000176894,903,OS BANDEIRANTES,6428.0,Office: Mixed-Use,Yes
+1000176922,904,CONF,2149.03,CONF,Yes
+1000176925,905,SUJAN JAWAI,3808.19,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000177057,906,CONF,4605.11,CONF,Yes
+1000177120,907,CityCentral,24010.0,Office: Mixed-Use,Yes
+1000177146,908,85 10th Avenue,59479.66,Office: Mixed-Use,Yes
+1000177165,909,PEDRO MARIZ B31,23742.57,Office: Mixed-Use,Yes
+1000177168,910,ROQUE PETRONI 850 - TORRE BACAETAVA,9526.55,Office: Mixed-Use,Yes
+1000177170,911,ROQUE PETRONI 850 - TORRE JACERU,9311.02,Office: Mixed-Use,Yes
+1000177252,912,CONF,16979.5,CONF,Yes
+1000177288,913,Pudong LCM S1 S4 Office Building Project,60606.0,Office: Mixed-Use,Yes
+1000177410,914,Mapletree Ningbo Hangzhou Bay WH1,37720.0,Warehouse: General,Yes
+1000177412,915,Mapletree Ningbo Hangzhou Bay WH2,37508.0,Warehouse: General,Yes
+1000177414,916,Mapletree Ningbo Hangzhou Bay WH3,39051.0,Warehouse: General,Yes
+1000177416,917,Mapletree Ningbo Hangzhou Bay WH4,39421.0,Warehouse: General,Yes
+1000177494,918,Mapletree Feixi Industrial Park W1,7984.0,Warehouse: General,Yes
+1000177496,919,Mapletree Feixi Industrial Park w3,15153.0,Warehouse: General,Yes
+1000177498,920,Mapletree Feixi Industrial Park W4,10297.0,Warehouse: General,Yes
+1000177521,921,Mapletree Feixi Industrial Park W2,16832.0,Warehouse: General,Yes
+1000177523,922,Mapletree Feixi Industrial Park W5,7122.0,Warehouse: General,Yes
+1000177593,923,World Trade Tower,72939.82,Office: Administrative/Professional,Yes
+1000177617,924,388 Market Street,40405.47,Office: Mixed-Use,Yes
+1000177763,925,ONE CENTINEL,47863.0,Office: Mixed-Use,Yes
+1000177796,926,South View School,12420.2,Core Learning Space: K-12 High School,Yes
+1000177873,927,929 Granville Street,6911.33,Office: Mixed-Use,Yes
+1000177899,928,Torre Esmeralda III,45069.0,Office: Administrative/Professional,Yes
+1000177920,929,Reforma 265,30673.0,Office: Mixed-Use,Yes
+1000177982,930,ShenwanHongyuan Beijing Headquarters,22468.0,Office: Mixed-Use,Yes
+1000178009,931,Chongqing No.2 Financial City T2,70478.0,Office: Other Office,Yes
+1000178049,932,CONDOMINIO EDIFICIO FUJITSU,10591.0,Office: Mixed-Use,Yes
+1000178068,933,DLF Downtown Block-2,77773.65,Office: Mixed-Use,Yes
+1000178126,934,First India Place,7649.0,Office: Mixed-Use,Yes
+1000178130,935,Vatika Triangle,9023.95,Office: Mixed-Use,Yes
+1000178133,936,Vatika Atrium,14719.0,Office: Mixed-Use,Yes
+1000178135,937,Vatika Towers,10456.0,Office: Mixed-Use,Yes
+1000178197,938,Suzhou Daikin Office Building,21284.0,Office: Mixed-Use,Yes
+1000178262,939,Vatika City Point,13151.99,Office: Mixed-Use,Yes
+1000178268,940,Vatika Professional Point,11380.0,Office: Mixed-Use,Yes
+1000178283,941,Vatika Mindscapes Tower A,19487.0,Office: Mixed-Use,Yes
+1000178361,942,Torre Paseo Antara Polanco,31457.0,Office: Mixed-Use,Yes
+1000178384,943,1900 Reston Metro Plaza,34372.07,Office: Mixed-Use,Yes
+1000178403,944,Vatika Business Park - Tower A,20575.0,Office: Mixed-Use,Yes
+1000178408,945,Vatika Business Park - Tower B,27706.0,Office: Mixed-Use,Yes
+1000178439,946,DLF Cyber City Chennai Block 12,31123.16,Office: Mixed-Use,Yes
+1000178441,947,CONF,22273.03,CONF,Yes
+1000178456,948,Python Construction Project,29994.29,Industrial Manufacturing,Yes
+1000178484,949,Shanghai Cowell Zelin DTP Pharmacy,178.0,Retail: Other Retail,Yes
+1000178494,950,Alibaba Xixi Campus Park C Think Tube 1,65759.0,Office: Mixed-Use,Yes
+1000178495,951,Alibaba Xixi Campus Park C Think Tube 4,92013.0,Office: Mixed-Use,Yes
+1000178496,952,Ali Xixi Campus Park C Cultural Valley,85252.0,Office: Mixed-Use,Yes
+1000178539,953,28 Stanley,7109.0,Office: Mixed-Use,Yes
+1000178554,954,MERLIN PROPERTIES - Vilanova 12,38629.0,Office: Administrative/Professional,Yes
+1000178557,955,Cheung Kong Center,116911.0,Office: Mixed-Use,Yes
+1000178558,956,MERLIN PROPERTIES - Fuente de la Mora 9,4482.0,Office: Administrative/Professional,Yes
+1000178565,957,CITIC Tower,52200.0,Office: Mixed-Use,Yes
+1000178571,958,Three Garden Road,134383.94,Office: Mixed-Use,Yes
+1000178696,959,20 Toronto Street/33 Victoria Street,14656.84,Office: Mixed-Use,Yes
+1000178706,960,36 Toronto Street,20121.02,Office: Mixed-Use,Yes
+1000179206,961,1166 Avenue of the Americas,144573.23,Office: Mixed-Use,Yes
+1000179223,962,The Square at BKC,15692.0,Office: Administrative/Professional,Yes
+1000179363,963,218 W 18th St,13247.04,Office: Mixed-Use,Yes
+1000179419,964,Skyline Building Complex,80812.51,Office: Government,Yes
+1000179556,965,OneAmerica Tower,82187.75,Office: Mixed-Use,Yes
+1000179565,966,14 Penn Plaza,50913.63,Office: Mixed-Use,Yes
+1000179761,967,Towers at Williams Square,142360.84,Office: Other Office,Yes
+1000179794,968,Towers at Great America 4655,28923.96,Office: Mixed-Use,Yes
+1000179796,969,Towers at Great America 4555,30025.23,Office: Mixed-Use,Yes
+1000179798,970,CASA,16828.45,Office: Mixed-Use,Yes
+1000179825,971,210 Kerrison Drive East,66569.46,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000179894,972,Edificio Comercial Maria Santos,10834.0,Office: Administrative/Professional,Yes
+1000179906,973,5655 Kennedy Road,10206.97,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000179909,974,550 Matheson Boulevard East,23182.09,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000179911,975,570 Matheson Boulevard East,24605.17,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000179934,976,"Alfonso XI, 12",2670.0,Office: Administrative/Professional,Yes
+1000179977,977,Research Building,2424.0,Laboratory,Yes
+1000179978,978,Proto & Test Building,3035.12,Laboratory,Yes
+1000180062,979,CONF,9094.83,CONF,Yes
+1000180066,980,Batiment Mac Metal Architectural,6202.76,Industrial Manufacturing,Yes
+1000180072,981,305 Rene Levesque,36702.91,Office: Government,Yes
+1000180074,982,4225 Dorchester,23103.95,Office: Government,Yes
+1000180121,983,OFICINA BANCA MARCH TRIANA 79,1119.0,Office: Financial,Yes
+1000180215,984,The Prescott,14161.67,Multi-Family Residential: Lowrise,Yes
+1000180298,985,575 Madison Avenue,37331.86,Office: Mixed-Use,Yes
+1000180314,986,Test Center,18803.0,Industrial Manufacturing,Yes
+1000180315,987,Service Building,4427.0,Industrial Manufacturing,Yes
+1000180316,988,R&D Center,32218.0,Industrial Manufacturing,Yes
+1000180325,989,CONF,86723.84,CONF,Yes
+1000180336,990,4000 Legato Rd Centerpointe II,19936.33,Office: Mixed-Use,Yes
+1000180340,991,4050 Legato Centerpointe I,20162.18,Office: Mixed-Use,Yes
+1000180396,992,ANSYS Pune,4952.57,Office: Other Office,Yes
+1000180408,993,I-Building,44356.17,Office: Financial,Yes
+1000180412,994,J-Building,45326.82,Office: Financial,Yes
+1000180414,995,C-Building,22391.76,Office: Financial,Yes
+1000180426,996,Canada Place,99050.0,Office: Government,Yes
+1000180430,997,Thomas D'Arcy McGee Building,49465.92,Office: Government,Yes
+1000180483,998,CONF,5198.0,CONF,Yes
+1000180493,999,RL NC66,94515.89,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000180505,1000,CONF,9350.0,CONF,Yes
+1000180545,1001,MERLIN PROPERTIES - Puerta Naciones Ed.1,11571.0,Office: Mixed-Use,Yes
+1000180547,1002,MERLIN PROPERTIES - Puerta Naciones Ed.3,10506.0,Office: Mixed-Use,Yes
+1000180556,1003,RL HPD,99160.95,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000180592,1004,Glenridge Highlands Two,40524.29,Office: Mixed-Use,Yes
+1000180714,1005,Harry Hays Building,53526.95,Office: Government,Yes
+1000180802,1006,3F Tekstil Fabrikasi,5507.0,Industrial Manufacturing,Yes
+1000180911,1007,Rio Metropolitan Center,41256.34,Office: Mixed-Use,Yes
+1000180921,1008,CSWADI Lakeside Design Headquarters,41397.0,Office: Administrative/Professional,Yes
+1000181021,1009,Burj Khalifa,373703.99,Other,Yes
+1000181026,1010,Alexandra House,47870.0,Office: Mixed-Use,Yes
+1000181029,1011,Chater House,53489.0,Office: Mixed-Use,Yes
+1000181032,1012,Jardine House,88504.0,Office: Mixed-Use,Yes
+1000181040,1013,Tanasbourne I,4595.17,Office: Mixed-Use,Yes
+1000181049,1014,The Landmark,161426.0,Office: Mixed-Use,Yes
+1000181051,1015,Exchange Square,206959.0,Office: Mixed-Use,Yes
+1000181053,1016,Prince's Building,71770.0,Office: Mixed-Use,Yes
+1000181061,1017,Himalaya Wellness Company Phase 1,2583336.0,Industrial Manufacturing,Yes
+1000181081,1018,Tanasbourne II,5063.21,Office: Mixed-Use,Yes
+1000181167,1019,160 Gould St,12407.1,Office: Administrative/Professional,Yes
+1000181611,1020,Innov Tower,58625.0,Office: Other Office,Yes
+1000181664,1021,CONF,3200.0,CONF,Yes
+1000181743,1022,West Memorial Place Phase I,31433.54,Office: Administrative/Professional,Yes
+1000181745,1023,West Memorial Place Phase II,36517.2,Office: Administrative/Professional,Yes
+1000182032,1024,SMU Dallas Hall,5854.47,Core Learning Space: College/University,Yes
+1000182106,1025,Shairu Gems Diamonds Pvt Ltd,9449.54,Office: Mixed-Use,Yes
+1000182132,1026,510 Seymour,6719.12,Office: Administrative/Professional,Yes
+1000182169,1027,KP Sanghvi International Pvt Ltd,3224.01,Industrial Manufacturing,Yes
+1000182179,1028,KP Sanghvi & Sons LLP - Factory 1,10400.67,Industrial Manufacturing,Yes
+1000182186,1029,KP Sanghvi & Sons LLP - Umiya,8270.88,Industrial Manufacturing,Yes
+1000182325,1030,CONF,24522.68,CONF,Yes
+1000182430,1031,Laguna Clothing Pvt Ltd - DBR Unit,12709.16,Industrial Manufacturing,Yes
+1000182432,1032,Tropic Knits India Private Limited,11126.6,Industrial Manufacturing,Yes
+1000182560,1033,American Homes 4 Rent Office,9184.76,Office: Administrative/Professional,Yes
+1000182563,1034,Satelite 12,9419.0,Office: Other Office,Yes
+1000182570,1035,JAT TECHNO SPINTEX MILLS,23609.9,Industrial Manufacturing,Yes
+1000182657,1036,Rexford - 19431 Santa Fe Ave,171.68,Office: Administrative/Professional,Yes
+1000182683,1037,WBSETCL - Newtown AA - 132 kV Substation,650.32,Service: Other Service,Yes
+1000182690,1038,Via Lamaro - U2,14550.0,Office: Other Office,Yes
+1000182734,1039,Via Lamaro - U3,14360.0,Office: Other Office,Yes
+1000182777,1040,Edificio New Century,34272.0,Office: Mixed-Use,Yes
+1000182781,1041,COND. ED. SANTA CATARINA,21077.41,Office: Mixed-Use,Yes
+1000182789,1042,The Centers - Gordon Square Office,5961.49,Healthcare: Clinic/Other Outpatient,Yes
+1000182806,1043,CONF,47154.59,CONF,Yes
+1000182807,1044,CONF,57978.53,CONF,Yes
+1000182808,1045,CONF,16805.13,CONF,Yes
+1000182811,1046,Shui On Centre,50993.0,Office: Mixed-Use,Yes
+1000182813,1047,"Dubai Int City Inn Hub  Bld 7A,B,C,D,E,F",34828.22,Office: Government,Yes
+1000182824,1048,Dubai Media City - Building 07-08,24193.15,Office: Government,Yes
+1000182826,1049,Dubai Media City - Building - 09-10,23613.62,Office: Government,Yes
+1000182844,1050,One East Wacker,60524.17,Office: Administrative/Professional,Yes
+1000182857,1051,Sede Sicredi - Ed Adolfo Rudolfo Freitag,3631.0,Office: Financial,Yes
+1000182999,1052,HYUNDAI-Bona Villa Program,2266.0,Other,Yes
+1000183023,1053,CONF,9814.55,CONF,Yes
+1000183322,1054,1001 Robert-Bourassa,96194.46,Office: Administrative/Professional,Yes
+1000183801,1055,GEMINI TOWERS,30724.0,Office: Administrative/Professional,Yes
+1000183808,1056,Escritorio Area Brasil,5530.37,Office: Administrative/Professional,Yes
+1000183912,1057,61 Queen and 56 Sparks,123638.0,Office: Government,Yes
+1000183913,1058,Bren Hall,7708.35,Laboratory,Yes
+1000183988,1059,CONF,3042.57,CONF,Yes
+1000184004,1060,Sandhill Plaza,51501.0,Office: Mixed-Use,Yes
+1000184154,1061,CONF,7719.87,CONF,Yes
+1000184166,1062,Mariano Escobedo 595 Torre B,14360.0,Office: Financial,Yes
+1000184185,1063,CONF,17222.0,CONF,Yes
+1000184203,1064,HACI OMER SABANCI HOLDING,31141.83,Office: Administrative/Professional,Yes
+1000184226,1065,"Indian Designs Exports Pvt Ltd, Hosur",15988.2,Industrial Manufacturing,Yes
+1000184247,1066,437 Madison Ave,77509.25,Office: Mixed-Use,Yes
+1000184249,1067,767 Third Avenue,26188.61,Office: Mixed-Use,Yes
+1000184251,1068,77 Water Street,50809.3,Office: Mixed-Use,Yes
+1000184253,1069,747 Third Avenue,38773.62,Office: Mixed-Use,Yes
+1000184255,1070,777 Third Ave,52598.52,Office: Mixed-Use,Yes
+1000184257,1071,2 Gansevoort St,16876.57,Office: Mixed-Use,Yes
+1000184275,1072,Pacific Tower,44350.0,Office: Mixed-Use,Yes
+1000184297,1073,110 East 59th Street,45942.48,Office: Administrative/Professional,Yes
+1000184318,1074,Estidama Mosque,482.0,Religious Worship,Yes
+1000184351,1075,Fulvio Testi 250,13426.0,Office: Other Office,Yes
+1000184430,1076,"TCI Express Limited, Pune",12325.53,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000184434,1077,DragonCor Foshan Lubao Logistics Park W1,19770.0,Warehouse: General,Yes
+1000184436,1078,DragonCor Foshan Lubao Logistics Park W2,19770.0,Warehouse: General,Yes
+1000184438,1079,DragonCor Foshan Lubao Logistics Park W3,19770.0,Warehouse: General,Yes
+1000184440,1080,DragonCor Foshan Lubao Logistics Park W4,40136.0,Warehouse: General,Yes
+1000184442,1081,DragonCor Foshan Lubao Logistics Park W5,40287.0,Warehouse: General,Yes
+1000184465,1082,Zero Latency,287.0,Other,Yes
+1000184482,1083,AIRBUS CHINA OFFICE BUILDING,18558.0,Office: Mixed-Use,Yes
+1000184500,1084,FERRER INTERQUIM,4188.0,Office: Administrative/Professional,Yes
+1000184578,1085,MERLIN PROPERTIES CRISTALIA 1,13084.0,Office: Other Office,Yes
+1000184579,1086,Recertification - Encinar,3785.0,Office: Other Office,Yes
+1000184716,1087,Beijing Oriental Plaza,403045.0,Office: Mixed-Use,Yes
+1000184797,1088,CONF,2999.0,CONF,Yes
+1000184810,1089,333 Ellington,23325.53,Multi-Family Residential: Apartment,Yes
+1000184927,1090,Via del Lauro 7,7951.5,Office: Administrative/Professional,Yes
+1000184964,1091,SOTATECH,639.54,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000184985,1092,CNOOC Plaza,113500.0,Office: Administrative/Professional,Yes
+1000185075,1093,Bundang First Tower,40295.0,Office: Mixed-Use,Yes
+1000185152,1094,CONF,16443.83,CONF,Yes
+1000185177,1095,Elixrr Industries Pvt. Ltd.,13470.94,Industrial Manufacturing,Yes
+1000185359,1096,MERCK NANTONG ADMIN BUILDING,2477.0,Office: Administrative/Professional,Yes
+1000185366,1097,CONF,38120.05,CONF,Yes
+1000185368,1098,CONF,5628.16,CONF,Yes
+1000185375,1099,DCEC Testing Center Building,13700.0,Office: Mixed-Use,Yes
+1000185377,1100,CONF,20907.0,CONF,Yes
+1000185379,1101,PRESTIGE CYBER TOWER,38656.94,Office: Administrative/Professional,Yes
+1000185382,1102,LAGAR H,982.0,Industrial Manufacturing,Yes
+1000185400,1103,Condominio Torre Almirante,50949.05,Office: Administrative/Professional,Yes
+1000185402,1104,DMart Bhayli Vadodara,5717.06,Retail: Convenience Store,Yes
+1000185422,1105,Dmart Belapur,8859.0,Retail: Other Retail,Yes
+1000185439,1106,Dmart Badlapur 2,5673.0,Retail: Other Retail,Yes
+1000185458,1107,Galeria Laguna,937.0,Other,Yes
+1000185476,1108,Recertification - Diagonal 199,6102.0,Office: Other Office,Yes
+1000185480,1109,Dmart Tirupur,5368.0,Retail: Other Retail,Yes
+1000185482,1110,Dmart Hosur,8251.0,Retail: Other Retail,Yes
+1000185484,1111,Dmart Sulur,5022.0,Retail: Other Retail,Yes
+1000185486,1112,Dmart Avaniyapuram Madhurai,7014.0,Retail: Other Retail,Yes
+1000185488,1113,Dmart Trichy Airport Road,2172.0,Retail: Other Retail,Yes
+1000185490,1114,Dmart Kiwale,4973.0,Retail: Other Retail,Yes
+1000185494,1115,Dmart Kanadia,6872.0,Retail: Other Retail,Yes
+1000185497,1116,Dmart Rajnandgaon,3366.0,Retail: Other Retail,Yes
+1000185499,1117,Dmart Charoda bhilai,6417.0,Retail: Other Retail,Yes
+1000185501,1118,Dmart Yavatmal,3540.0,Retail: Other Retail,Yes
+1000185507,1119,MRK Healthcare Existing Factory Building,4645.0,Industrial Manufacturing,Yes
+1000185537,1120,MEHMETCIK VAKFI ETIMESGUT,268.0,Service: Other Service,Yes
+1000185539,1121,GUZEL ENERJI MACUNKOY,114.0,Service: Other Service,Yes
+1000185542,1122,GUZEL ENERJI MURATPASA,170.3,Service: Other Service,Yes
+1000185544,1123,GUZEL ENERJI ALTUNIZADE,104.0,Service: Other Service,Yes
+1000185546,1124,GUZEL ENERJI BAKIRKOY,219.0,Service: Other Service,Yes
+1000185548,1125,GUZEL ENERJI ATAKENT,862.0,Service: Other Service,Yes
+1000185550,1126,GUZEL ENERJI BOSTANCI,100.0,Service: Other Service,Yes
+1000185552,1127,GUZEL ENERJI TUYAP,100.0,Service: Other Service,Yes
+1000185555,1128,MEHMETCIK VAKFI YENISEHIR,600.0,Service: Other Service,Yes
+1000185557,1129,GUZEL ENERJI ORTAKENT,153.0,Service: Other Service,Yes
+1000185559,1130,GUZEL ENERJI ORDU,148.0,Service: Other Service,Yes
+1000185579,1131,DMart Doddaballapur,6568.06,Retail: Convenience Store,Yes
+1000185581,1132,DMart Palanpur,5235.08,Retail: Convenience Store,Yes
+1000185587,1133,DMart Attavar Mangalore,7937.07,Retail: Convenience Store,Yes
+1000185596,1134,DMart Nava Naroda,13290.15,Retail: Convenience Store,Yes
+1000185620,1135,DMart Bharuch,6460.75,Retail: Convenience Store,Yes
+1000185624,1136,DMart Surendra Nagar Gujarat,4261.74,Retail: Convenience Store,Yes
+1000185628,1137,BODIO H,2059.92,Office: Mixed-Use,Yes
+1000185634,1138,Universal American School-Cafeteria Bldg,3185.92,Retail: Restaurant/Cafeteria,Yes
+1000185681,1139,Kerry Centre,47482.0,Office: Mixed-Use,Yes
+1000185900,1140,9720 Wilshire Blvd,5236.76,Office: Administrative/Professional,Yes
+1000185976,1141,Palazzo Biandra',13314.0,Office: Administrative/Professional,Yes
+1000185977,1142,1133 15th Street Recertification,21514.57,Office: Mixed-Use,Yes
+1000186024,1143,Jindal Stainless Limited,6038.7,Office: Mixed-Use,Yes
+1000186043,1144,WERT Sede,547.0,Office: Mixed-Use,Yes
+1000186055,1145,CONF,4111.0,CONF,Yes
+1000186057,1146,CONF,6880.0,CONF,Yes
+1000186060,1147,CONF,6658.0,CONF,Yes
+1000186064,1148,CONF,3886.0,CONF,Yes
+1000186069,1149,CONF,6656.0,CONF,Yes
+1000186071,1150,CONF,6530.0,CONF,Yes
+1000186093,1151,CONF,11382.29,CONF,Yes
+1000186117,1152,CONF,13744.0,CONF,Yes
+1000186119,1153,Indo Count Industries Ltd.,13405.35,Industrial Manufacturing,Yes
+1000186149,1154,Pacific Center,40000.0,Office: Mixed-Use,Yes
+1000186159,1155,CONF,7054.03,CONF,Yes
+1000186161,1156,CONF,4874.53,CONF,Yes
+1000186170,1157,DMart Sirhind Road Patiala,7925.09,Retail: Other Retail,Yes
+1000186176,1158,CONF,3643.01,CONF,Yes
+1000186180,1159,CONF,5996.61,CONF,Yes
+1000186183,1160,ESQUEL GREENTECH & SMART INDUSTRIAL PARK,17256.0,Industrial Manufacturing,Yes
+1000186204,1161,West Bradenton Branch,524.16,Office: Financial,Yes
+1000186297,1162,BOEHRINGER INGELHEIM SPAIN ECO RECERTIF.,8606.0,Office: Administrative/Professional,Yes
+1000186316,1163,Diagonal 579,8585.0,Office: Administrative/Professional,Yes
+1000186322,1164,Trane Monterrey - Planta HVAC,11563.54,Industrial Manufacturing,Yes
+1000186335,1165,RBC Gateway,88350.75,Office: Mixed-Use,Yes
+1000186344,1166,Hilltop Xiuzhou Logistic Center W1,11030.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000186360,1167,1333 North Kingsbury,9394.91,Office: Mixed-Use,Yes
+1000186397,1168,Ionis - 2850 Gazelle,7176.66,Public Assembly: Convention Center,Yes
+1000186401,1169,6828 Nancy Ridge,3914.75,Laboratory,Yes
+1000186403,1170,6118 Nancy Ridge,2879.99,Laboratory,Yes
+1000186406,1171,6122-6126 Nancy Ridge,6317.4,Laboratory,Yes
+1000186473,1172,Indian Designs Exports Pvt Ltd - Unit 9,17593.0,Industrial Manufacturing,Yes
+1000186477,1173,CNL Center I,33726.58,Office: Administrative/Professional,Yes
+1000186483,1174,CNL Center II,25967.87,Office: Administrative/Professional,Yes
+1000186508,1175,Seoul Finance Center,108201.99,Office: Mixed-Use,Yes
+1000186510,1176,MERCEDES-BENZ RESEARCH AND DEVELOPMENT,50395.0,Office: Administrative/Professional,Yes
+1000186513,1177,Dongguan Ever Gain Logistics WA,3984.0,Warehouse: General,Yes
+1000186517,1178,Dongguan Ever Gain Logistics WB,4002.0,Warehouse: General,Yes
+1000186519,1179,Dongguan Ever Gain Logistics WC,4704.0,Warehouse: General,Yes
+1000186524,1180,Dongguan Ever Gain Logistics WD,5992.0,Warehouse: General,Yes
+1000186527,1181,DWTC One Central Offices,159314.25,Office: Administrative/Professional,Yes
+1000186536,1182,CONF,4338.0,CONF,Yes
+1000186561,1183,Merriweather Row  10480,13809.38,Office: Other Office,Yes
+1000186603,1184,Krypton India Solutions Private Limited,5464.74,Office: Other Office,Yes
+1000186704,1185,Laboratorios Pfizer DUMAS,10059.17,Office: Administrative/Professional,Yes
+1000186845,1186,"Infinitus Plaza, Hong Kong",36850.8,Office: Mixed-Use,Yes
+1000186852,1187,Far Eastern Corporate Building,28710.0,Office: Mixed-Use,Yes
+1000186926,1188,Hong Leong Plaza & M Social Hotel,72214.0,Other,Yes
+1000186928,1189,HLCC Mall,59572.0,Retail: Enclosed Mall,Yes
+1000186986,1190,Shui On Plaza,77068.0,Office: Mixed-Use,Yes
+1000187091,1191,Shreeji Exim Works LLP,1920.03,Industrial Manufacturing,Yes
+1000187136,1192,VX Chengdu Longquan Logistics Park W1,38879.0,Warehouse: Refrigerated,Yes
+1000187138,1193,VX Chengdu Longquan Logistics Park W2,28592.0,Warehouse: Refrigerated,Yes
+1000187140,1194,VX Chengdu Longquan Logistics Park W3,24138.0,Warehouse: Refrigerated,Yes
+1000187144,1195,LLUIS MUNTADAS 5,13553.0,Office: Administrative/Professional,Yes
+1000187214,1196,CESC Ltd. - Dum Dum Substation,1011.99,Service: Other Service,Yes
+1000187216,1197,CESC Ltd. - East Calcutta Substation,1935.17,Service: Other Service,Yes
+1000187218,1198,CESC Ltd. - Jadavpore Substation,1554.92,Service: Other Service,Yes
+1000187220,1199,CESC Ltd. - Majerhat Substation,2187.03,Service: Other Service,Yes
+1000187222,1200,CESC Ltd. - Mulajore Substation,2926.17,Service: Other Service,Yes
+1000187224,1201,CESC Ltd. - New Cossipore Substation,4280.41,Service: Other Service,Yes
+1000187231,1202,CESC Ltd. - West Bank Receiving Station,1870.14,Service: Other Service,Yes
+1000187233,1203,CHINA MERCHANTS Garden City,153151.0,Retail: Open Shopping Center,Yes
+1000187240,1204,Edificio Athenas,7783.0,Office: Administrative/Professional,Yes
+1000187379,1205,Meininger Roma,6428.0,"Lodging: Hotel/Motel/Resort, Limited Service",Yes
+1000187381,1206,"Al Sila Tower, ADGM Square",60135.0,Office: Mixed-Use,Yes
+1000187383,1207,Bagmane Tech Park - Master Site,273386.49,Office: Administrative/Professional,Yes
+1000187389,1208,Confeccoes Vanelise,10212.0,Industrial Manufacturing,Yes
+1000187450,1209,Hoerbiger New Plant Project,14414.0,Industrial Manufacturing,Yes
+1000187456,1210,Hitachi Elevator new test tower H1,15450.0,Industrial Manufacturing,Yes
+1000187483,1211,Quest Mall,38090.23,Retail: Enclosed Mall,Yes
+1000187486,1212,Radisson Blu Hotel,25914.3,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000187546,1213,Edificio Madison,10101.0,Office: Administrative/Professional,Yes
+1000187552,1214,Edificio Bela Paulista,7255.0,Office: Administrative/Professional,Yes
+1000187554,1215,Edificio Lagoa Corporate,10967.0,Office: Administrative/Professional,Yes
+1000187556,1216,Edificio Botafogo Trade Center,9354.0,Office: Administrative/Professional,Yes
+1000187570,1217,INTERNATIONAL OCEAN SFC,56472.37,Office: Mixed-Use,Yes
+1000187572,1218,Hilltop Xiuzhou Logistic Center W2,12488.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000187585,1219,Buenos Aires Corporate,8056.0,Office: Administrative/Professional,Yes
+1000187587,1220,DGARDEN 662 RECERTIFICATION,34242.0,Office: Administrative/Professional,Yes
+1000187589,1221,101 Station Landing,15211.47,Office: Administrative/Professional,Yes
+1000187604,1222,Edificio Joaquim Floriano,4936.0,Office: Administrative/Professional,Yes
+1000187633,1223,DP World Head Office FZE,17555.6,Office: Administrative/Professional,Yes
+1000187664,1224,Rui Ming Plaza,35647.0,Office: Mixed-Use,Yes
+1000187674,1225,Reforma 222,60587.99,Office: Mixed-Use,Yes
+1000187688,1226,Shanghai Beiye Logistics Warehouse,34522.0,Warehouse: General,Yes
+1000187690,1227,CONF,17074.08,CONF,Yes
+1000187692,1228,CONF,13584.0,CONF,Yes
+1000187704,1229,DHL - Jandira,40006.8,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000187708,1230,Hospital Moriah,11104.0,Healthcare: Inpatient,Yes
+1000187726,1231,CESC Ltd. - Belur Receiving Station,1552.5,Service: Other Service,Yes
+1000187771,1232,3150 Fairview Park Drive,23921.5,Office: Mixed-Use,Yes
+1000187845,1233,PRESTIGE OBELISK,11785.86,Office: Administrative/Professional,Yes
+1000188028,1234,Comfort Inn & Suites,3993.25,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000188030,1235,"South West Regional Office, CESC Ltd.",3335.22,Office: Administrative/Professional,Yes
+1000188050,1236,Pacific Place Mall,109113.0,Retail: Open Shopping Center,Yes
+1000188053,1237,Watson Centre,62000.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000188059,1238,P&G Beijing office expansion,2887.0,Office: Administrative/Professional,Yes
+1000188099,1239,SUZHOU PORT BUILDING,75933.0,Office: Administrative/Professional,Yes
+1000188123,1240,Seoul Square Recertification,110555.96,Office: Mixed-Use,Yes
+1000188130,1241,Air China Century Building,89854.0,Office: Administrative/Professional,Yes
+1000188161,1242,Hongwell International Plaza Shanghai,71700.0,Office: Mixed-Use,Yes
+1000188196,1243,Queimados Condominio,1157.26,Retail: Restaurant/Cafeteria,Yes
+1000188267,1244,Cajamar III Condominio - Office Building,274.0,Office: Mixed-Use,Yes
+1000188271,1245,Dutra SP Condominio - Office Building,211.73,Retail: Restaurant/Cafeteria,Yes
+1000188308,1246,CONF,114264.0,CONF,Yes
+1000188381,1247,Pangyo Techno Valley GB I,26500.86,Office: Mixed-Use,Yes
+1000188385,1248,Pangyo Techno Valley GB II,12142.0,Office: Mixed-Use,Yes
+1000188387,1249,CENTRE POINT GWANGHWAMUN,29474.0,Office: Mixed-Use,Yes
+1000188406,1250,WestChase I,9374.56,Office: Administrative/Professional,Yes
+1000188408,1251,WestChase II,10734.76,Office: Administrative/Professional,Yes
+1000188424,1252,Dhariwal Infrastructure Limited,2101.0,Office: Administrative/Professional,Yes
+1000188592,1253,"Pinkcity Jewelhouse Pvt Ltd, Unit-I",2272.87,Industrial Manufacturing,Yes
+1000188614,1254,Cypress Point,19645.27,Office: Mixed-Use,Yes
+1000188623,1255,Embassy Golf Links - Pebble Beach,19366.65,Office: Mixed-Use,Yes
+1000188759,1256,5200 Waterford,24125.05,Office: Administrative/Professional,Yes
+1000188761,1257,5201 Waterford,20428.91,Office: Administrative/Professional,Yes
+1000188763,1258,5301 Waterford,20278.22,Office: Administrative/Professional,Yes
+1000188860,1259,Shanghai Hongqiao Joy Apartment Project,50970.0,Other,Yes
+1000188873,1260,IT10 Chiesi Farmaceutici SPA S. Leonardo,39984.0,Industrial Manufacturing,Yes
+1000188874,1261,RELIFE TURIN-NOVARA 59,9095.0,Lodging: Dormitory,Yes
+1000188878,1262,RELIFE TURIN-TOLLEGNO 22,4660.0,Lodging: Dormitory,Yes
+1000189060,1263,Soho House Istanbul,13870.0,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000189158,1264,Vimodrone Uffici - Edificio A,10996.0,Office: Mixed-Use,Yes
+1000189160,1265,Vimodrone Uffici - Edificio B,1580.0,Office: Mixed-Use,Yes
+1000189302,1266,2121 K LLC,20242.63,Office: Administrative/Professional,Yes
+1000189329,1267,WWT OFFICE,107627.0,Office: Mixed-Use,Yes
+1000189336,1268,Project Valley 1,3943.15,Office: Medical (Non-Diagnostic),Yes
+1000189338,1269,Project Valley 17,716.74,Office: Medical (Non-Diagnostic),Yes
+1000189340,1270,Project Valley 2,3943.15,Office: Medical (Non-Diagnostic),Yes
+1000189342,1271,Project Valley 3,3943.15,Office: Medical (Non-Diagnostic),Yes
+1000189344,1272,Project Valley 16,33508.22,Office: Medical (Non-Diagnostic),Yes
+1000189346,1273,Project Valley 4,5854.6,Office: Medical (Non-Diagnostic),Yes
+1000189354,1274,Project Valley 5,19766.0,Office: Medical (Non-Diagnostic),Yes
+1000189356,1275,Project Valley 15,9243.0,Multi-Family Residential: Apartment,Yes
+1000189358,1276,Project Valley 14,4115.0,Multi-Family Residential: Apartment,Yes
+1000189361,1277,Project Valley 6,3523.59,Office: Medical (Non-Diagnostic),Yes
+1000189363,1278,Project Valley 7,3945.38,Office: Medical (Non-Diagnostic),Yes
+1000189365,1279,Project Valley 13,2747.0,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000189367,1280,Project Valley 8,3945.38,Office: Medical (Non-Diagnostic),Yes
+1000189369,1281,Project Valley 12,2513.34,Multi-Family Residential: Apartment,Yes
+1000189371,1282,Project Valley 9,5855.32,Office: Medical (Non-Diagnostic),Yes
+1000189373,1283,Project Valley 11,6897.66,Multi-Family Residential: Apartment,Yes
+1000189375,1284,Project Valley 10,13155.61,Office: Medical (Non-Diagnostic),Yes
+1000189430,1285,The Asset,64494.0,Office: Mixed-Use,Yes
+1000189515,1286,Residencia Jardines de Eztebe,8000.0,Healthcare: Nursing Home/ Assisted Living,Yes
+1000189518,1287,CONF,9321.98,CONF,Yes
+1000189522,1288,Five Pacific Place,13507.0,Office: Financial,Yes
+1000189669,1289,TATA Smartfoodz Ltd,11116.68,Industrial Manufacturing,Yes
+1000189675,1290,ORCHID CENTRE,18328.0,Office: Mixed-Use,Yes
+1000189828,1291,KB Life Tower,35431.0,Office: Mixed-Use,Yes
+1000190022,1292,TARSIM,5140.0,Office: Mixed-Use,Yes
+1000190206,1293,Tata Consumer Products Gopalpur Plant,23946.86,Industrial Manufacturing,Yes
+1000190328,1294,CONF,44262.05,CONF,Yes
+1000190330,1295,Bagmane Tech Park - Laurel,66965.41,Office: Administrative/Professional,Yes
+1000190332,1296,CONF,46604.23,CONF,Yes
+1000190334,1297,Bagmane Tech Park - Crown,23118.63,Office: Administrative/Professional,Yes
+1000190336,1298,Bagmane Tech Park - Lake View,51604.36,Office: Administrative/Professional,Yes
+1000190338,1299,Bagmane Tech Park - Olympia,27560.6,Office: Administrative/Professional,Yes
+1000190340,1300,Bagmane Tech Park - Quay,54400.65,Office: Administrative/Professional,Yes
+1000190355,1301,Reha Tekstil Tokat LEED,8737.0,Industrial Manufacturing,Yes
+1000190462,1302,7 Post Office Square,5968.65,Office: Mixed-Use,Yes
+1000190474,1303,22 Vanderbilt,91411.26,Office: Administrative/Professional,Yes
+1000190586,1304,KUNTAI TOWER,35428.0,Office: Other Office,Yes
+1000190654,1305,CONF,23091.04,CONF,Yes
+1000190703,1306,Fiesta Americana Hacienda Galindo Resort,15270.0,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000190794,1307,Lee Garden Three,4017.4,Office: Mixed-Use,Yes
+1000190797,1308,Hysan Place,6982.12,Office: Mixed-Use,Yes
+1000190804,1309,CONF,5027.0,CONF,Yes
+1000190858,1310,Vatika Mindscapes Tower B,25246.0,Office: Mixed-Use,Yes
+1000190863,1311,Vatika Business Park - Tower C,16075.0,Office: Mixed-Use,Yes
+1000190909,1312,DP World Jafza 15,15560.6,Office: Administrative/Professional,Yes
+1000190921,1313,Hengrun Plaza,8503.0,Office: Mixed-Use,Yes
+1000190940,1314,SETEKS,3908.0,Other,Yes
+1000190943,1315,1667 K Street NW Recertification,20284.91,Office: Administrative/Professional,Yes
+1000190998,1316,CONF,6000.0,CONF,Yes
+1000191200,1317,Hard Rock Stadium,121246.68,Public Assembly: Stadium/Arena,Yes
+1000191262,1318,"Al Sarab Tower, ADGM Square",60135.0,Office: Mixed-Use,Yes
+1000191264,1319,"Al Maqam Tower, ADGM Square",74229.6,Office: Mixed-Use,Yes
+1000191266,1320,"Al Khatem Tower, ADGM Square",74229.6,Office: Mixed-Use,Yes
+1000191289,1321,40 West 25th Street,12655.8,Office: Administrative/Professional,Yes
+1000191297,1322,University Center Chicago,65217.91,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000191310,1323,Al Yasmina Academy,24146.94,Core Learning Space: K-12 Elementary/Middle School,Yes
+1000191328,1324,G Corp Tech Park Condominium,62834.0,Office: Other Office,Yes
+1000191387,1325,Al Muna Academy,5702.0,Core Learning Space: K-12 Elementary/Middle School,Yes
+1000191389,1326,Al Mamoura Academy,20485.6,Core Learning Space: K-12 Elementary/Middle School,Yes
+1000191391,1327,W Abu Dhabi,68214.0,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000191407,1328,MERLIN PROPERT- CHURRUCA ED.1 SEDE CUNEF,4553.0,Core Learning Space: College/University,Yes
+1000191408,1329,MERLIN PROPERT- CHURRUCA ED.2 SEDE CUNEF,4169.0,Office: Administrative/Professional,Yes
+1000191409,1330,MERLIN PROPERT- CHURRUCA ED.3 SEDE CUNEF,4155.0,Office: Administrative/Professional,Yes
+1000191410,1331,MERLIN PROPERT- CHURRUCA ED.4 SEDE CUNEF,4610.0,Office: Administrative/Professional,Yes
+1000191462,1332,Aldar HQ,61900.0,Office: Mixed-Use,Yes
+1000191469,1333,Huizhou Huamao Place,110000.0,Retail: Enclosed Mall,Yes
+1000191770,1334,Twin City Namsan - Office and Retail,31100.0,Office: Mixed-Use,Yes
+1000191899,1335,DMC-Building 01,14312.08,Office: Other Office,Yes
+1000191901,1336,Dubai Internet City Mastercard,7217.08,Office: Other Office,Yes
+1000191906,1337,Dubai Internet City Baitek Building,6195.98,Office: Other Office,Yes
+1000191908,1338,Dubai Internet City Butterfly Building,23593.37,Office: Other Office,Yes
+1000191910,1339,Dubai Science Park Head Quarter Building,53589.14,Office: Mixed-Use,Yes
+1000191915,1340,Dubai Internet City -Ph 6 Building,21349.67,Office: Other Office,Yes
+1000191917,1341,Dubai Production City Publishing Pavilio,24258.0,Office: Other Office,Yes
+1000191983,1342,WF CENTRAL,111251.0,Retail: Enclosed Mall,Yes
+1000192034,1343,The Pearl Academy,5407.0,Core Learning Space: K-12 Elementary/Middle School,Yes
+1000192085,1344,Yas Mall,389916.0,Retail: Enclosed Mall,Yes
+1000192088,1345,Al Bateen Academy,26808.0,Core Learning Space: K-12 Elementary/Middle School,Yes
+1000192170,1346,CONF,4641.99,CONF,Yes
+1000192213,1347,Al Ain Academy,11053.0,Core Learning Space: K-12 Elementary/Middle School,Yes
+1000192216,1348,Indialand Tech Park Private Limited,115435.0,Office: Administrative/Professional,Yes
+1000192229,1349,Condominio Francisco Mellao,11645.1,Office: Administrative/Professional,Yes
+1000192658,1350,Airport Freight Forwarding Centre,138713.0,Airport: Distribution Center,Yes
+1000192705,1351,395 Hudson Street New York LLC,67248.21,Office: Mixed-Use,Yes
+1000193000,1352,WeBank Headquarters,1264822.83,Office: Financial,Yes
+1000193057,1353,875 Third Avenue,58916.76,Office: Mixed-Use,Yes
+1000193218,1354,DLF Downtown Block-3,77773.65,Office: Mixed-Use,Yes
+1000193224,1355,MERLIN PROPERTIES - P.E. Las Tablas Ed.1,9024.0,Office: Administrative/Professional,Yes
+1000193340,1356,EDIFICIO PAULISTA 500,10139.14,Office: Mixed-Use,Yes
+1000193457,1357,350 Rhode Island South,13328.98,Office: Mixed-Use,Yes
+1000193879,1358,PyD Monteolmo EB,4307.0,Office: Administrative/Professional,Yes
+1000193950,1359,Platte 15,15052.05,Office: Mixed-Use,Yes
+1000194159,1360,Oficinas Goya 36,4338.0,Office: Mixed-Use,Yes
+1000194356,1361,Romell Tech Park,34518.29,Office: Administrative/Professional,Yes
+1000194697,1362,Hotel Milano Scala,5494.0,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000194825,1363,SCJ Manufacturing Site Office Building,2587.0,Office: Other Office,Yes
+1000194993,1364,Residencia Estudiantes Granada,4462.0,Lodging: Dormitory,Yes
+1000194994,1365,Residencia Hospitalet Travessera fase I,2735.0,Lodging: Dormitory,Yes
+1000194995,1366,Residencia Hospitalet Campalans,3207.0,Lodging: Dormitory,Yes
+1000195002,1367,Residencia de Estudiantes Vicalvaro 3,2029.0,Lodging: Dormitory,Yes
+1000195008,1368,Residencia de Estudiantes Vicalvaro 4,1330.0,Lodging: Dormitory,Yes
+1000195082,1369,171007 - 400 Centre Street - ABP,3812.09,Office: Mixed-Use,Yes
+1000195464,1370,535037 - 4001 Fair Ridge Drive,4366.26,Office: Medical (Non-Diagnostic),Yes
+1000195469,1371,535027 - 5750 Centre Ave,7059.23,Office: Medical (Non-Diagnostic),Yes
+1000195485,1372,701146 - 2300 Yorkmont Road,14018.32,Office: Mixed-Use,Yes
+1000195488,1373,701147 - 2400 Yorkmont Road,12369.76,Office: Mixed-Use,Yes
+1000195494,1374,700080 - 4560 Viewridge Avenue,8656.42,Office: Mixed-Use,Yes
+1000195499,1375,701109 - 330 Billerica Road,9108.95,Office: Mixed-Use,Yes
+1000195501,1376,700480 - 625 Indiana Avenue,15369.78,Office: Government,Yes
+1000195503,1377,535164 - 6160 Kempsville Circle,12658.22,Office: Mixed-Use,Yes
+1000195505,1378,701129- 145 Rio Robles Drive,5349.91,Office: Mixed-Use,Yes
+1000195646,1379,PRESTIGE BLUECHIP SOFTWARE PARK: BLOCK-1,11743.22,Office: Administrative/Professional,Yes
+1000195653,1380,PRESTIGE BLUECHIP SOFTWAREPARK BLOCK 2,7247.0,Office: Administrative/Professional,Yes
+1000195656,1381,PRESTIGE BLUECHIP SOFTWARE PARK BLOCK-3,8621.0,Office: Administrative/Professional,Yes
+1000195716,1382,PRESTIGE DYNASTY,22105.99,Office: Administrative/Professional,Yes
+1000196155,1383,CapitaMall Xuefu,104293.0,Retail: Enclosed Mall,Yes
+1000196158,1384,CapitaMall Nuohemule,76309.0,Retail: Enclosed Mall,Yes
+1000196238,1385,EL PACHA HOTEL,6038.7,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000196388,1386,CONF,2000.0,CONF,Yes
+1000196626,1387,SHSTP NO.1 BUILDING,19139.0,Office: Mixed-Use,Yes
+1000196627,1388,SHSTP NO.2 BUILDING,20915.0,Office: Mixed-Use,Yes
+1000196628,1389,SHSTP NO.3 BUILDING,5734.0,Office: Mixed-Use,Yes
+1000196629,1390,SHSTP NO.4 BUILDING,5785.0,Office: Mixed-Use,Yes
+1000196631,1391,SHSTP NO.5 BUILDING,5731.0,Office: Mixed-Use,Yes
+1000196632,1392,SHSTP NO.6 BUILDING,5781.0,Office: Mixed-Use,Yes
+1000196633,1393,SHSTP NO.7 BUILDING,5734.0,Office: Mixed-Use,Yes
+1000196634,1394,SHSTP NO.8 BUILDING,17324.0,Office: Mixed-Use,Yes
+1000196636,1395,SHSTP NO.9 BUILDING,16541.0,Office: Mixed-Use,Yes
+1000196637,1396,SHSTP NO.10 BUILDING,27572.0,Office: Mixed-Use,Yes
+1000197089,1397,535070 - 4411 THE 25 WAY,22693.23,Office: Medical (Non-Diagnostic),Yes
+1000197469,1398,OPET CEKMEKOY,500.0,Other,Yes
+1000197784,1399,Yapi ve Kredi Bankasi A.S.,49589.0,Office: Administrative/Professional,Yes
+1000199001,1400,Ericsson Nanjing Campus-Buildings B1-16,46735.0,Industrial Manufacturing,Yes
+1000199042,1401,Ericsson Nanjing Campus-Building 19,4102.0,Office: Other Office,Yes
+1000199094,1402,CONF,67584.29,CONF,Yes
+1000199099,1403,CONF,4185.28,CONF,Yes
+1000199862,1404,DIVAN KURUCESME,9249.0,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000202275,1405,VALDEL XTENT OUTSOURCING SLS - VECTOR,33628.38,Office: Administrative/Professional,Yes
+1000202277,1406,VALDEL XTENT OUTSOURCING SLS - VELOCITY,35274.99,Office: Administrative/Professional,Yes
+1000202279,1407,VALDEL XTENT OUTSOURCING SLS - VALENCE,35496.84,Office: Administrative/Professional,Yes
+1000202281,1408,Yas Rotana & Centro Yas Island Hotels,39189.0,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000202306,1409,Inorbit Mall Hyderabad,69061.95,Retail: Enclosed Mall,Yes
+1000202311,1410,MERLIN PROPERTIES - P.E. Via Norte Ed. 2,7531.0,Office: Mixed-Use,Yes
+1000202318,1411,277 Park Avenue,162195.26,Office: Mixed-Use,Yes
+1000202456,1412,Roach Olympus,38708.14,Office: Administrative/Professional,Yes
+1000202477,1413,CONF,7589.71,CONF,Yes
+1000202479,1414,CONF,26019.44,CONF,Yes
+1000202481,1415,CONF,4934.82,CONF,Yes
+1000202483,1416,SCM GARMENTS PVT LIMITED UNIT-27,10341.5,Industrial Manufacturing,Yes
+1000202493,1417,The Forum at West Paces,24729.29,Office: Mixed-Use,Yes
+1000202624,1418,Four Seasons Bengaluru Embassy One,37422.0,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000202628,1419,Commercial Bank of Dubai Head Office,23975.29,Office: Financial,Yes
+1000202630,1420,CBD Sharjah Building,19405.58,Office: Mixed-Use,Yes
+1000202632,1421,CBD Al Quoz Building,12582.41,Office: Financial,Yes
+1000202634,1422,CBD Jumeriah Branch,1592.36,Office: Financial,Yes
+1000202643,1423,"Nan Fung Tower, Shanghai",13360.0,Office: Mixed-Use,Yes
+1000202645,1424,"Le Rendez-Vous, Shanghai",11000.0,Retail: Enclosed Mall,Yes
+1000202704,1425,Cranleigh School,29697.0,Core Learning Space: K-12 Elementary/Middle School,Yes
+1000202748,1426,Century Plaza II,9527.76,Office: Mixed-Use,Yes
+1000202888,1427,CONF,23536.95,CONF,Yes
+1000202889,1428,DHARAMPAL SATYAPAL LTD - DS HQ Noida Rec,47190.17,Office: Administrative/Professional,Yes
+1000203022,1429,MC-Building,173961.52,Office: Financial,Yes
+1000203024,1430,G-Building,25447.8,Office: Financial,Yes
+1000203050,1431,390 Bay Street,44250.62,Office: Mixed-Use,Yes
+1000203055,1432,West Yas Academy,26424.0,Core Learning Space: K-12 Elementary/Middle School,Yes
+1000203057,1433,CONF,23676.14,CONF,Yes
+1000203100,1434,Daman House,26459.35,Office: Mixed-Use,Yes
+1000203156,1435,"F bldg, Fujitsu Consulting India Pvt Ltd",11077.2,Office: Administrative/Professional,Yes
+1000203158,1436,"A to E bldg, Fujitsu Consulting India",7630.96,Office: Administrative/Professional,Yes
+1000203161,1437,Carrollwood Branch,619.48,Office: Financial,Yes
+1000203178,1438,Logis1 Icheon Baeksa,64688.7,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000203185,1439,ASACERT Headquarter,364.0,Office: Administrative/Professional,Yes
+1000203193,1440,Dash Living on Prat,5899.0,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000203202,1441,Francisca Delgado 9,11592.0,Office: Administrative/Professional,Yes
+1000203213,1442,CONF,14655.63,CONF,Yes
+1000203268,1443,IT10 Chiesi Farmaceutici Biotech Center,8218.0,Industrial Manufacturing,Yes
+1000203368,1444,Cigna Bloomfield HQ,83003.91,Office: Mixed-Use,Yes
+1000203380,1445,AZIA CENTER,86952.0,Office: Mixed-Use,Yes
+1000203396,1446,Ascendas Xinsu Square Building 1,18854.0,Office: Other Office,Yes
+1000203397,1447,Ascendas Xinsu Square Building 2,12096.0,Office: Other Office,Yes
+1000203398,1448,Ascendas Xinsu Square Building 3,6243.0,Office: Other Office,Yes
+1000203399,1449,Ascendas Xinsu Square Building 4,7504.0,Office: Other Office,Yes
+1000203400,1450,Ascendas Xinsu Square Building 5,18121.0,Office: Other Office,Yes
+1000203401,1451,Ascendas Xinsu Square Building 6,9377.0,Office: Other Office,Yes
+1000203504,1452,Engepoli Skylux Building,746.0,Office: Administrative/Professional,Yes
+1000203571,1453,CONF,3363.74,CONF,Yes
+1000203573,1454,CONF,3943.92,CONF,Yes
+1000203579,1455,MERLIN PROPERTIES - PE. Atica XIX Ed. A,4537.0,Office: Mixed-Use,Yes
+1000203580,1456,MERLIN PROPERTIES - PE. Atica XIX Ed. B,5795.0,Office: Mixed-Use,Yes
+1000203581,1457,MERLIN PROPERTIES - PE. Atica XIX Ed. C,5079.0,Office: Mixed-Use,Yes
+1000203583,1458,BODIO 1,7127.39,Office: Mixed-Use,Yes
+1000203585,1459,BODIO 3,12869.49,Office: Mixed-Use,Yes
+1000203592,1460,Towne Storage,9539.19,Office: Mixed-Use,Yes
+1000203596,1461,CONF,3009.0,CONF,Yes
+1000203605,1462,Severance Music Center,16434.54,Public Assembly: Entertainment,Yes
+1000203618,1463,New Bund Times Square,64541.0,Office: Mixed-Use,Yes
+1000203624,1464,AVANT,8786.0,Office: Administrative/Professional,Yes
+1000203626,1465,INBLAU,6480.0,Office: Administrative/Professional,Yes
+1000203627,1466,RBA 22a,20915.0,Office: Administrative/Professional,Yes
+1000203630,1467,14501 Princeton Ave,13396.61,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000203632,1468,685 Third Ave,60386.95,Office: Mixed-Use,Yes
+1000203698,1469,CONF,432.0,CONF,Yes
+1000203700,1470,CONF,1115.0,CONF,Yes
+1000203728,1471,Newtown Branch,123.56,Office: Financial,Yes
+1000203735,1472,FORVIA SHANGHAI RUI BUILDING,16138.0,Office: Mixed-Use,Yes
+1000203737,1473,MATRIKIRAN HIGH SCHOOL ADMIN BLOCK,2956.0,Core Learning Space: K-12 High School,Yes
+1000203793,1474,City Centre Me'aisem,29910.0,Retail: Enclosed Mall,Yes
+1000203795,1475,My City Centre Nasseriya,6794.0,Retail: Enclosed Mall,Yes
+1000203873,1476,MERLIN PROPERTIES - P.E.22 Edificio A,10681.0,Office: Administrative/Professional,Yes
+1000203875,1477,MERLIN PROPERTIES-Santiago Compostela 94,12688.0,Office: Administrative/Professional,Yes
+1000203883,1478,Minda Capital Private Limited,8701.11,Industrial Manufacturing,Yes
+1000203887,1479,Agilent Technologies,32516.05,Office: Administrative/Professional,Yes
+1000203891,1480,MATRIKIRAN HIGH SCHOOL ACADEMICS BLOCK,16172.0,Core Learning Space: K-12 High School,Yes
+1000203894,1481,MATRIKIRAN JUNIOR SCHOOL ADMIN BLOCK,1488.0,Core Learning Space: K-12 Elementary/Middle School,Yes
+1000203896,1482,MATRIKIRAN JUNIOR SCHOOL ACADEMICS BLOCK,4723.0,Core Learning Space: K-12 Elementary/Middle School,Yes
+1000203901,1483,MATRIKIRAN JUNIOR SCHOOL DINING BLOCK,575.0,Core Learning Space: K-12 Elementary/Middle School,Yes
+1000203929,1484,CONF,6917.37,CONF,Yes
+1000203946,1485,Mitsubishi Chemical - Atibaia,4400.0,Warehouse: General,Yes
+1000203963,1486,Shanghai Infinitus Tower,72622.0,Office: Mixed-Use,Yes
+1000204073,1487,Hutchison Logistics Centre,423065.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000204093,1488,Student Partners I - Torre Student,20058.97,Multi-Family Residential: Apartment,Yes
+1000204114,1489,THE PLACE - Guangzhou,73870.0,Office: Mixed-Use,Yes
+1000204178,1490,CONF,1901.5,CONF,Yes
+1000204180,1491,10182 Telesis Court,11882.29,Office: Mixed-Use,Yes
+1000204185,1492,BR10 Chiesi Santana de Parnaiba,10680.0,Industrial Manufacturing,Yes
+1000204222,1493,THE INLET,12356.0,Retail: Other Retail,Yes
+1000204243,1494,CONF,22777.0,CONF,Yes
+1000204251,1495,AIA FINANCIAL CENTER,44760.0,Office: Other Office,Yes
+1000204278,1496,Mirae Asset CENTER1,128278.98,Office: Mixed-Use,Yes
+1000204281,1497,Hala Arjaan by Rotana,18080.0,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000204285,1498,Myntra Binola,18580.6,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000204292,1499,Roche Accelerator,5013.0,Office: Mixed-Use,Yes
+1000204323,1500,LUMINA 2 SHANGHAI OFFICE TOWER T2,48670.0,Office: Mixed-Use,Yes
+1000204325,1501,LUMINA SHANGHAI,189798.0,Office: Mixed-Use,Yes
+1000204329,1502,"Instakart Services, Myntra Bilaspur",22761.24,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000204333,1503,1735 Market Street,134710.09,Office: Mixed-Use,Yes
+1000204407,1504,2 Miami Central - Office,20177.23,Office: Mixed-Use,Yes
+1000204422,1505,Mapletree Nanjing Logistics Park W1,34932.0,Warehouse: General,Yes
+1000204424,1506,Mapletree Nanjing Logistics Park W2,33275.0,Warehouse: General,Yes
+1000204426,1507,Mapletree Shijiazhuang Lingshou Block 1,18137.0,Warehouse: General,Yes
+1000204428,1508,Mapletree Shijiazhuang Lingshou Block 2,18810.17,Warehouse: General,Yes
+1000204430,1509,Mapletree Shijiazhuang Lingshou Block 3,18786.8,Warehouse: General,Yes
+1000204432,1510,Mapletree Shijiazhuang Lingshou Block 4,18786.8,Warehouse: General,Yes
+1000204434,1511,Mapletree Changchun Kuancheng Block 1,15162.0,Warehouse: General,Yes
+1000204436,1512,Mapletree Changchun Kuancheng Block 2,12330.0,Warehouse: General,Yes
+1000204438,1513,Mapletree Changchun Kuancheng Block 3,12330.0,Warehouse: General,Yes
+1000204440,1514,Mapletree Changchun Kuancheng Block 4,14313.0,Warehouse: General,Yes
+1000204442,1515,Mapletree Changchun ED-ZONE Block 1,10198.0,Warehouse: General,Yes
+1000204444,1516,Mapletree Changchun ED-ZONE Block 2,12945.0,Warehouse: General,Yes
+1000204446,1517,Mapletree Changchun ED-ZONE Block 3,13361.0,Warehouse: General,Yes
+1000204449,1518,Mapletree Changchun ED-ZONE Block 4,10580.0,Warehouse: General,Yes
+1000204451,1519,Mapletree Haiyan  Phase I Block 1,35153.36,Warehouse: General,Yes
+1000204453,1520,CONF,34076.18,CONF,Yes
+1000204455,1521,Mapletree Haiyan Phase II Block 1,35582.0,Warehouse: General,Yes
+1000204457,1522,Mapletree Haiyan Phase II Block 2,28243.0,Warehouse: General,Yes
+1000204459,1523,Mapletree Jiaozhou Logistics Park W1,10634.88,Warehouse: General,Yes
+1000204461,1524,Mapletree Jiaozhou Logistics Park W2,13909.58,Warehouse: General,Yes
+1000204463,1525,Mapletree Jiaozhou Logistics Park W3,12498.43,Warehouse: General,Yes
+1000204465,1526,Mapletree Jiaxing Industrial Park W1,18576.0,Warehouse: General,Yes
+1000204467,1527,Mapletree Jiaxing Industrial Park W2,34778.0,Warehouse: General,Yes
+1000204469,1528,Mapletree Jiaxing Industrial Park W3,18916.0,Warehouse: General,Yes
+1000204471,1529,Mapletree East Sichuan  Logistics Park 1,21488.8,Warehouse: General,Yes
+1000204473,1530,Mapletree East Sichuan Logistics Park 2,21440.61,Warehouse: General,Yes
+1000204475,1531,Mapletree East Sichuan Logistics Park 3,17875.0,Warehouse: General,Yes
+1000204477,1532,Mapletree Yaozhuang  Industrial  Park 1,29881.0,Warehouse: General,Yes
+1000204479,1533,Mapletree Yaozhuang  Industrial  Park 2,27168.0,Warehouse: General,Yes
+1000204481,1534,Mapletree Yaozhuang Industrial Park 3,30799.0,Warehouse: General,Yes
+1000204483,1535,Mapletree Yaozhuang Industrial Park 4,29881.0,Warehouse: General,Yes
+1000204501,1536,Mapletree Changsha Logistics Park  P1 W1,20116.0,Warehouse: General,Yes
+1000204503,1537,Mapletree Changsha Logistics Park  P1 W2,20503.0,Warehouse: General,Yes
+1000204505,1538,Mapletree Changsha Logistics Park  P1 W3,19272.0,Warehouse: General,Yes
+1000204507,1539,Mapletree Changsha Logistics Park  P1 W4,19864.0,Warehouse: General,Yes
+1000204509,1540,Mapletree Chengdu DC Logistics Park,18679.37,Warehouse: General,Yes
+1000204511,1541,Mapletree Xi'an Industrial Park W1,25619.0,Warehouse: General,Yes
+1000204513,1542,Mapletree Xi'an Industrial Park W2,14134.0,Warehouse: General,Yes
+1000204515,1543,Mapletree Xi'an Industrial Park W3,23615.0,Warehouse: General,Yes
+1000204517,1544,Mapletree Harbin Logistic Park W1,16065.0,Warehouse: General,Yes
+1000204519,1545,Mapletree Harbin Logistic Park W2,16065.0,Warehouse: General,Yes
+1000204521,1546,Mapletree Harbin Logistic Park W3,14890.0,Warehouse: General,Yes
+1000204523,1547,Mapletree Harbin Logistic Park W4,12462.0,Warehouse: General,Yes
+1000204525,1548,Mapletree Zhongshan Logistics Park W1,14327.36,Warehouse: General,Yes
+1000204527,1549,CONF,9785.13,CONF,Yes
+1000204529,1550,Mapletree Chongqing Industrial Park W1,22118.0,Warehouse: General,Yes
+1000204533,1551,Mapletree Chongqing Industrial Park W2,24920.0,Warehouse: General,Yes
+1000204535,1552,Mapletree Guizhou logistics Park W1,12112.0,Warehouse: General,Yes
+1000204539,1553,Mapletree Guizhou logistics Park W2,17063.0,Warehouse: General,Yes
+1000204541,1554,Mapletree Guizhou logistics Park W3,23262.8,Warehouse: General,Yes
+1000204543,1555,Mapletree Jinan Logistics Park W1,21298.0,Warehouse: General,Yes
+1000204547,1556,Mapletree Jinan Logistics Park W2,21355.0,Warehouse: General,Yes
+1000204549,1557,Mapletree Jinan Logistics Park W3,20317.0,Warehouse: General,Yes
+1000204553,1558,Mapletree Jinan Logistics Park W4,18085.0,Warehouse: General,Yes
+1000204556,1559,Mapletree Nanchang Logistics Park W1,23082.0,Warehouse: General,Yes
+1000204558,1560,Mapletree Nanchang Logistics Park W2,26217.0,Warehouse: General,Yes
+1000204560,1561,Mapletree Nanchang Logistics Park W3,25548.0,Warehouse: General,Yes
+1000204562,1562,Mapletree Qingdao Logistics Park W1,20769.0,Warehouse: General,Yes
+1000204564,1563,Mapletree Qingdao Logistics Park W2,39118.0,Warehouse: General,Yes
+1000204566,1564,Mapletree Qingdao Logistics Park W3,15818.0,Warehouse: General,Yes
+1000204568,1565,Mapletree Tianjin Wuqing Park Block 1,15459.0,Warehouse: General,Yes
+1000204570,1566,Mapletree Tianjin Wuqing  Park Block 2,14518.0,Warehouse: General,Yes
+1000204572,1567,Mapletree Shenyang Logistics Park W1,18716.0,Warehouse: General,Yes
+1000204574,1568,Mapletree Shenyang Logistics Park W2,24166.0,Warehouse: General,Yes
+1000204576,1569,Mapletree Tianjin Xiqing Park W1,17585.0,Warehouse: General,Yes
+1000204578,1570,Mapletree Tianjin Xiqing Park W2,21385.0,Warehouse: General,Yes
+1000204580,1571,Mapletree Wuhan Logistics Park W1,18977.0,Warehouse: General,Yes
+1000204582,1572,Mapletree Wuhan Logistics Park W2,19251.0,Warehouse: General,Yes
+1000204584,1573,Mapletree Wuhan Logistics Park W3,16013.0,Warehouse: General,Yes
+1000204586,1574,Mapletree Wuhan Logistics Park W4,16464.0,Warehouse: General,Yes
+1000204588,1575,Mapletree Xixian Airport  Park W1,10466.0,Warehouse: General,Yes
+1000204590,1576,Mapletree Xixian Airport  Park W2,10466.0,Warehouse: General,Yes
+1000204592,1577,Mapletree Xixian Airport  Park W3,10171.0,Warehouse: General,Yes
+1000204594,1578,Mapletree Xixian Airport  Park W4,11799.0,Warehouse: General,Yes
+1000204596,1579,Mapletree Xixian Airport  Park W5,11375.0,Warehouse: General,Yes
+1000204598,1580,Mapletree Xixian Airport  Park W6,10705.0,Warehouse: General,Yes
+1000204617,1581,Mapletree Yantai Modern Logistics Park 1,15664.0,Warehouse: General,Yes
+1000204619,1582,Mapletree Yantai Modern Logistics Park 2,14307.0,Warehouse: General,Yes
+1000204621,1583,Mapletree Yantai Modern Logistics Park 3,16131.0,Warehouse: General,Yes
+1000204623,1584,Mapletree Yantai Modern Logistics Park 4,21440.0,Warehouse: General,Yes
+1000204625,1585,Mapletree Zhengzhou Logistics Park W1,23015.0,Warehouse: General,Yes
+1000204627,1586,CONF,23068.0,CONF,Yes
+1000204629,1587,Mapletree Zhengzhou Logistics Park W2,15493.0,Warehouse: General,Yes
+1000204631,1588,Man Yee Building,33241.0,Office: Mixed-Use,Yes
+1000204640,1589,New World Daimaru Department Store,116699.0,Retail: Enclosed Mall,Yes
+1000204643,1590,One Taikoo Place,94144.22,Office: Administrative/Professional,Yes
+1000204653,1591,DMART DURG,3428.03,Retail: Other Retail,Yes
+1000204655,1592,DMart Benz Circle Vijaywada,8469.04,Retail: Convenience Store,Yes
+1000204657,1593,DMart Ankleshwar,9181.05,Retail: Convenience Store,Yes
+1000204659,1594,DMart Dindoli,7962.07,Retail: Convenience Store,Yes
+1000204661,1595,DMart Kosad,9741.07,Retail: Convenience Store,Yes
+1000204709,1596,DMart Navsari,8147.04,Retail: Convenience Store,Yes
+1000204711,1597,DMart Faridabad BPTP,8173.05,Retail: Convenience Store,Yes
+1000204714,1598,CONF,69635.0,CONF,Yes
+1000204716,1599,DMart Mandsaur,4336.06,Retail: Convenience Store,Yes
+1000204721,1600,DMart Silver Spring,5818.24,Retail: Convenience Store,Yes
+1000204723,1601,DMart Pitampura,4022.05,Retail: Convenience Store,Yes
+1000204725,1602,DMart Pathankot Jalandhar,9262.06,Retail: Convenience Store,Yes
+1000204727,1603,DMart Jagatpura,6008.04,Retail: Convenience Store,Yes
+1000204729,1604,DMart Delhi 99,8424.07,Retail: Convenience Store,Yes
+1000204732,1605,e& etisalat and - Al Manakh Sharjah,19516.0,Office: Administrative/Professional,Yes
+1000204734,1606,DMart Godhra,3331.04,Retail: Convenience Store,Yes
+1000204736,1607,DMart Bilimora,3956.0,Retail: Convenience Store,Yes
+1000204738,1608,e& etisalat and - T&A Abu Dhabi,35570.0,Office: Administrative/Professional,Yes
+1000204745,1609,DMart Sanand,7197.01,Retail: Convenience Store,Yes
+1000204749,1610,DMart Wadala Nashik,7320.01,Retail: Convenience Store,Yes
+1000204751,1611,DMart Kalwar Road,6501.54,Retail: Convenience Store,Yes
+1000204753,1612,DMart Arth Noida,7903.07,Retail: Convenience Store,Yes
+1000204768,1613,Mapletree Kaifeng Logistics Park Block 1,7461.0,Warehouse: General,Yes
+1000204770,1614,Mapletree Kaifeng Logistics Park Block 2,8048.0,Warehouse: General,Yes
+1000204772,1615,Mapletree Kaifeng Logistics Park Block 3,12534.0,Warehouse: General,Yes
+1000204774,1616,Mapletree Kaifeng Logistics Park Block 4,10366.0,Warehouse: General,Yes
+1000204776,1617,Mapletree Kaifeng Logistics Park Block 5,11349.0,Warehouse: General,Yes
+1000204778,1618,Mapletree Kaifeng Logistics Park Block 6,11223.0,Warehouse: General,Yes
+1000204780,1619,Mapletree Kaifeng Logistics Park Block 7,11223.0,Warehouse: General,Yes
+1000204788,1620,Dmart Yogi Chowk,7188.09,Retail: Other Retail,Yes
+1000204792,1621,Dmart MHOW,6258.04,Retail: Other Retail,Yes
+1000204796,1622,Dmart Mandi Gobindgarh,3811.07,Retail: Other Retail,Yes
+1000204800,1623,Dmart Gulbarga,3056.04,Retail: Other Retail,Yes
+1000204803,1624,DMart Nandurbar,3936.02,Retail: Other Retail,Yes
+1000204805,1625,"Dmart Kuntikan, Mangalore",7614.98,Retail: Other Retail,Yes
+1000204807,1626,DMart Pathardi Nashik,5954.06,Retail: Other Retail,Yes
+1000204810,1627,DMart Dhule,5012.02,Retail: Other Retail,Yes
+1000204814,1628,Kholke Panvel Dmart,8727.03,Retail: Other Retail,Yes
+1000204816,1629,Dmart Udupi,7922.02,Retail: Other Retail,Yes
+1000204818,1630,DMart Ulhasnagar,4526.05,Retail: Other Retail,Yes
+1000204822,1631,DMart Wardha,2915.02,Retail: Other Retail,Yes
+1000204848,1632,Namsan Sowol Tower,40517.0,Office: Mixed-Use,Yes
+1000204857,1633,PRESTIGE POLYGON,49657.0,Office: Administrative/Professional,Yes
+1000204949,1634,Jet Propulsion Laboratory Building 201,1114.84,Office: Government,Yes
+1000204950,1635,Henderson Metropolitan - Office Tower,188889.0,Office: Mixed-Use,Yes
+1000204953,1636,CONF,4452.0,CONF,Yes
+1000204954,1637,CONF,5077.0,CONF,Yes
+1000204956,1638,Hangzhou Kerry Centre Office Tower,13287.0,Office: Mixed-Use,Yes
+1000204959,1639,CONF,2049.0,CONF,Yes
+1000204961,1640,DMart Mancherial,2939.0,Retail: Grocery Store/Food Market,Yes
+1000204963,1641,CONF,4280.0,CONF,Yes
+1000204965,1642,CONF,3525.0,CONF,Yes
+1000204967,1643,CONF,5375.0,CONF,Yes
+1000204971,1644,Grand Gateway 2,160945.0,Office: Mixed-Use,Yes
+1000204974,1645,CONF,2818.0,CONF,Yes
+1000204978,1646,CONF,6108.0,CONF,Yes
+1000204984,1647,Beltarodi Dmart,12687.11,Retail: Other Retail,Yes
+1000205017,1648,Radisson Blu & Park Inn by Radisson,49663.0,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000205031,1649,PARCBIT,12748.95,Office: Administrative/Professional,Yes
+1000205057,1650,Candelaria Corporate,19435.84,Office: Other Office,Yes
+1000205075,1651,Hongxin Logistics E-commerce park W1,15253.0,Warehouse: General,Yes
+1000205077,1652,Hongxin Logistics E-commerce park W2,10297.0,Warehouse: General,Yes
+1000205081,1653,Hongxin Logistics E-commerce park W4,11284.0,Warehouse: General,Yes
+1000205083,1654,Hongxin Logistics E-commerce park W5,14778.0,Warehouse: General,Yes
+1000205085,1655,Hongxin Logistics E-commerce park W6,12271.0,Warehouse: General,Yes
+1000205087,1656,Hongxin Logistics E-commerce park W7,12271.0,Warehouse: General,Yes
+1000205089,1657,Hongxin Logistics E-commerce park W8,12271.0,Warehouse: General,Yes
+1000205092,1658,Tianjin Technology-based SME park W1,9486.0,Warehouse: General,Yes
+1000205095,1659,Tianjin Technology-based SME park W2,9383.0,Warehouse: General,Yes
+1000205097,1660,Tianjin Technology-based SME park W3,12153.0,Warehouse: General,Yes
+1000205099,1661,Tianjin Technology-based SME park W4,11970.0,Warehouse: General,Yes
+1000205101,1662,Tianjin Technology-based SME park W6,9386.0,Warehouse: General,Yes
+1000205103,1663,Tianjin Technology-based SME park W7,12530.0,Warehouse: General,Yes
+1000205105,1664,Tianjin Technology-based SME park W8,12500.0,Warehouse: General,Yes
+1000205107,1665,Tianjin Technology-based SME park W9,9348.0,Warehouse: General,Yes
+1000205109,1666,Tianjin Technology-based SME park W10,9245.0,Warehouse: General,Yes
+1000205111,1667,Tianjin Technology-based SME park W11,12153.0,Warehouse: General,Yes
+1000205113,1668,Tianjin Technology-based SME park W12,11970.0,Warehouse: General,Yes
+1000205117,1669,Guangzhou Airport Logistics Park J1,13779.0,Warehouse: General,Yes
+1000205119,1670,Guangzhou Airport Logistics Park J2,13784.0,Warehouse: General,Yes
+1000205121,1671,Guangzhou Airport Logistics Park J3,17717.0,Warehouse: General,Yes
+1000205123,1672,Guangzhou Airport Logistics Park J4,17728.0,Warehouse: General,Yes
+1000205127,1673,Guangzhou Airport Logistics Park J5,16788.0,Warehouse: General,Yes
+1000205129,1674,Guangzhou Airport Logistics Park J6,16797.0,Warehouse: General,Yes
+1000205131,1675,Guangzhou Airport Logistics Park J7,18094.0,Warehouse: General,Yes
+1000205133,1676,Guangzhou Airport Logistics Park J8,18104.0,Warehouse: General,Yes
+1000205135,1677,Guangzhou Airport Logistics Park J9,18100.0,Warehouse: General,Yes
+1000205137,1678,Guangzhou Airport Logistics Park J10,26306.0,Warehouse: General,Yes
+1000205139,1679,Guangzhou Airport Logistics Park J11,18248.0,Warehouse: General,Yes
+1000205141,1680,Guangzhou Airport Logistics Park J12,18238.0,Warehouse: General,Yes
+1000205146,1681,Guangzhou Airport Logistics Park J13,13895.0,Warehouse: General,Yes
+1000205148,1682,Guangzhou Airport Logistics Park J14,13919.0,Warehouse: General,Yes
+1000205150,1683,Guangzhou Airport Logistics Park J15,13892.0,Warehouse: General,Yes
+1000205152,1684,Guangzhou Airport Logistics Park J16,13879.0,Warehouse: General,Yes
+1000205154,1685,Guangzhou Airport Logistics Park J17,13910.0,Warehouse: General,Yes
+1000205156,1686,Guangzhou Airport Logistics Park J18,13879.0,Warehouse: General,Yes
+1000205158,1687,Guangzhou Airport Logistics Park J25,19610.0,Warehouse: General,Yes
+1000205162,1688,Guangzhou Airport Logistics Park J26,19691.0,Warehouse: General,Yes
+1000205164,1689,Guangzhou Airport Logistics Park J27,19609.0,Warehouse: General,Yes
+1000205243,1690,Mapletree Wenzhou Industrial Park 1,33115.0,Warehouse: General,Yes
+1000205245,1691,Mapletree Wenzhou Industrial Park 2,32877.0,Warehouse: General,Yes
+1000205247,1692,Mapletree Wenzhou Industrial Park 4,12523.0,Warehouse: General,Yes
+1000205249,1693,Mapletree Wenzhou Industrial Park 3,14092.0,Warehouse: General,Yes
+1000205251,1694,Mapletree Wenzhou Industrial Park 5,12286.0,Warehouse: General,Yes
+1000205253,1695,Mapletree Wenzhou Industrial Park 6,14398.0,Warehouse: General,Yes
+1000205254,1696,MERLIN PROPERTIES - P.E. Alvia Ed3,11735.0,Office: Administrative/Professional,Yes
+1000205282,1697,MT Tianjin Jinghai Logistics Park 1,7701.0,Warehouse: General,Yes
+1000205284,1698,MT Tianjin Jinghai Logistics Park 2,13789.0,Warehouse: General,Yes
+1000205286,1699,MT Tianjin Jinghai Logistics Park 3,11776.0,Warehouse: Refrigerated,Yes
+1000205288,1700,CONF,22180.0,CONF,Yes
+1000205290,1701,CONF,21290.0,CONF,Yes
+1000205292,1702,CONF,9146.0,CONF,Yes
+1000205294,1703,CONF,22939.0,CONF,Yes
+1000205296,1704,MT Zhengzhou airport logistics park 1,15667.0,Warehouse: General,Yes
+1000205298,1705,MT Zhengzhou airport logistics park 2,16653.0,Warehouse: General,Yes
+1000205300,1706,MT Zhengzhou airport logistics park 3,17543.0,Warehouse: General,Yes
+1000205302,1707,MT Zhengzhou airport logistics park 4,17543.0,Warehouse: General,Yes
+1000205304,1708,MT Zhengzhou airport logistics park 5,12850.0,Warehouse: General,Yes
+1000205306,1709,MT Zhengzhou airport logistics park 6,10372.0,Warehouse: General,Yes
+1000205311,1710,Mapletree Kunming Logistics Park Block 1,10735.0,Warehouse: General,Yes
+1000205313,1711,Mapletree Kunming Logistics Park Block 2,11909.0,Warehouse: General,Yes
+1000205316,1712,Mapletree Kunming Logistics Park Block 3,21040.0,Warehouse: General,Yes
+1000205318,1713,Mapletree Kunming Logistics Park Block 4,8968.0,Warehouse: General,Yes
+1000205320,1714,Mapletree Kunming Logistics Park Block 5,9097.0,Warehouse: General,Yes
+1000205323,1715,Mapletree Yixing Industrial Park Block 1,13768.0,Warehouse: General,Yes
+1000205325,1716,Mapletree Yixing Industrial Park Block 2,13965.0,Warehouse: General,Yes
+1000205327,1717,Mapletree Yixing Industrial Park Block 3,13965.0,Warehouse: General,Yes
+1000205329,1718,Mapletree Yixing Industrial Park Block 4,9569.0,Warehouse: General,Yes
+1000205331,1719,Mapletree Yixing Industrial Park Block 5,9569.0,Warehouse: General,Yes
+1000205333,1720,Mapletree Yixing Industrial Park Block 6,13768.0,Warehouse: General,Yes
+1000205341,1721,Ela Green School - O+M Existing Building,4987.78,Core Learning Space: K-12 High School,Yes
+1000205351,1722,Jeongdong Building,330548.61,Office: Mixed-Use,Yes
+1000205356,1723,IDEE MIMARLIK INSAAT A.S.,207.0,Office: Administrative/Professional,Yes
+1000205367,1724,CONF,6359.77,CONF,Yes
+1000205377,1725,The Tower at Metropolitan Oriental Plaza,54617.0,Office: Other Office,Yes
+1000205382,1726,"Virtusa, Chennai- Foundation Block",696.55,Office: Administrative/Professional,Yes
+1000205451,1727,"Virtusa, Chennai- FTP Building",10405.14,Office: Administrative/Professional,Yes
+1000205454,1728,"Virtusa, Chennai- Food Court Building",2655.23,Retail: Restaurant/Cafeteria,Yes
+1000205458,1729,DBS BANK TOWER,45957.0,Office: Mixed-Use,Yes
+1000205460,1730,LUJIAZUI CENTURY FINANCIAL PLAZA No.1,111520.0,Office: Mixed-Use,Yes
+1000205464,1731,LUJIAZUI CENTURY FINANCIAL PLAZA No.2,75147.0,Office: Mixed-Use,Yes
+1000205466,1732,LUJIAZUI CENTURY FINANCIAL PLAZA No.3,75406.12,Office: Mixed-Use,Yes
+1000205468,1733,LUJIAZUI CENTURY FINANCIAL PLAZA No.5,42188.0,Office: Mixed-Use,Yes
+1000205470,1734,LUJIAZUI CENTURY FINANCIAL PLAZA No.6,42624.36,Office: Mixed-Use,Yes
+1000205472,1735,LuJiaZui Finance Service Plaza,72904.31,Office: Mixed-Use,Yes
+1000205475,1736,LUJIAZUI FINANCIAL PLAZA,47696.0,Office: Mixed-Use,Yes
+1000205477,1737,LJZ Plaza,72428.0,Office: Mixed-Use,Yes
+1000205480,1738,LJZ FINANCIAL HOLDINGS PLAZA PHASE 1,41557.0,Office: Mixed-Use,Yes
+1000205482,1739,LJZ FINANCIAL HOLDINGS PLAZA PHASE 1,15673.0,Office: Mixed-Use,Yes
+1000205484,1740,LJZ FINANCIAL HOLDINGS PLAZA PHASE 1,4985.0,Office: Mixed-Use,Yes
+1000205544,1741,CONF,4174.0,CONF,Yes
+1000205596,1742,CONF,24382.86,CONF,Yes
+1000205638,1743,CTS-CHN-CKC-SDB01,55254.15,Office: Administrative/Professional,Yes
+1000205640,1744,CTS-CHN-CKC-SDB02,55277.47,Office: Administrative/Professional,Yes
+1000205642,1745,CTS-CHN-CKC-SDB03,58323.85,Office: Administrative/Professional,Yes
+1000205644,1746,CTS-PUN-CDC-SDB 1A,39701.54,Office: Administrative/Professional,Yes
+1000205646,1747,CTS-PUN-CDC-SDB 1B,39701.5,Office: Administrative/Professional,Yes
+1000205692,1748,GLP Shanghai Jinqiao Park WDC2,17974.0,Warehouse: General,Yes
+1000205699,1749,1700 Broadway,55187.17,Office: Administrative/Professional,Yes
+1000205725,1750,Mapletree Chengdu Logistics Park S1-1,12349.0,Warehouse: General,Yes
+1000205727,1751,Mapletree Chengdu Logistics Park S1-2,11266.0,Warehouse: General,Yes
+1000205729,1752,Mapletree Chengdu Logistics Park S1-3,12025.0,Warehouse: General,Yes
+1000205731,1753,Mapletree Chengdu Logistics Park S1-4,12007.0,Warehouse: General,Yes
+1000205733,1754,Mapletree Chengdu Logistics Park S2-1,11586.0,Warehouse: General,Yes
+1000205735,1755,Mapletree Chengdu Logistics Park S2-2,9681.0,Warehouse: General,Yes
+1000205737,1756,Mapletree Chengdu Logistics Park S2-3,20541.0,Warehouse: General,Yes
+1000205740,1757,Mapletree Chengdu Logistics Park S2-4,19438.0,Warehouse: General,Yes
+1000205794,1758,Camplus Pavia FT Towers,6226.0,Lodging: Dormitory,Yes
+1000205801,1759,Ferrero Food Hangzhou Project,50107.0,Industrial Manufacturing,Yes
+1000205807,1760,AVENIDA DE BURGOS 118,12140.0,Office: Administrative/Professional,Yes
+1000205820,1761,60 Adelaide East,11243.03,Office: Administrative/Professional,Yes
+1000205861,1762,Park Avenue Tower,50237.48,Office: Mixed-Use,Yes
+1000206147,1763,BNK Digital Tower,26151.0,Office: Mixed-Use,Yes
+1000206170,1764,1800 M Street,57161.45,Office: Administrative/Professional,Yes
+1000206179,1765,Dawning Center,69740.0,Office: Mixed-Use,Yes
+1000206186,1766,FASI sede Roma,2483.0,Office: Administrative/Professional,Yes
+1000206207,1767,Sede Almeria - Grupo Gransolar,1102.71,Office: Administrative/Professional,Yes
+1000206250,1768,Mapletree Zhengzhou Logistics Park W3,19140.0,Warehouse: General,Yes
+1000206253,1769,Mapletree Zhengzhou Logistics Park W4,21140.0,Warehouse: General,Yes
+1000206265,1770,China Taiping Financial Center,59147.0,Office: Other Office,Yes
+1000206272,1771,EMAAR Digital Greens Tower A,27351.0,Office: Mixed-Use,Yes
+1000206275,1772,CONF,38040.0,CONF,Yes
+1000206281,1773,Office Building of Infogain India,7638.29,Office: Administrative/Professional,Yes
+1000206325,1774,DAMAC Hills 2 Community Center,10641.0,Retail: Enclosed Mall,Yes
+1000206353,1775,HZ PAFC Tower A&B&Mall,150374.0,Office: Other Office,Yes
+1000206355,1776,HZ PAFC Tower C,45314.0,Office: Other Office,Yes
+1000206358,1777,Sina Plaza,89720.0,Office: Administrative/Professional,Yes
+1000206360,1778,CONF,646.33,CONF,Yes
+1000206397,1779,First Abu Dhabi Bank-FAB-SZR Building,7899.91,Office: Financial,Yes
+1000206414,1780,Nanjing IFC,299069.0,Office: Mixed-Use,Yes
+1000206416,1781,Fujairah Hospital,40000.0,Healthcare: Clinic/Other Outpatient,Yes
+1000206418,1782,Chengdu SKP,151754.0,Retail: Enclosed Mall,Yes
+1000206442,1783,Xuhui ASE Mall,112375.0,Retail: Open Shopping Center,Yes
+1000206451,1784,Emaar Capital Tower-1,33321.8,Office: Mixed-Use,Yes
+1000206465,1785,15231 Avenue of Science,6097.97,Office: Mixed-Use,Yes
+1000206496,1786,CONF,4243.0,CONF,Yes
+1000206515,1787,Air Aurora Garden House  R&D  Center,225.0,Office: Mixed-Use,Yes
+1000206517,1788,CONF,10846.43,CONF,Yes
+1000206534,1789,MAX Towers Noida,3036.72,Office: Administrative/Professional,Yes
+1000206634,1790,GUZEL ENERJI DOLAPDERE,160.0,Service: Other Service,Yes
+1000206636,1791,Corporate One,12224.0,Office: Mixed-Use,Yes
+1000206648,1792,GUZEL ENERJI ISPARTAKULE,375.0,Service: Other Service,Yes
+1000206652,1793,GUZEL ENERJI KISIKLI,150.0,Service: Other Service,Yes
+1000206669,1794,GUZEL ENERJI KARATAY,154.7,Service: Other Service,Yes
+1000206942,1795,The Quayside,82044.0,Office: Mixed-Use,Yes
+1000206945,1796,Tower 535,24601.9,Office: Mixed-Use,Yes
+1000206958,1797,Guangzhou Huangzhenlong logistics T1,42047.0,Warehouse: General,Yes
+1000206961,1798,Guangzhou Huangzhenlong logistics T2,41991.0,Warehouse: General,Yes
+1000207000,1799,Arco,5237.0,Healthcare: Inpatient,Yes
+1000207002,1800,Priocca,4720.0,Healthcare: Nursing Home/ Assisted Living,Yes
+1000207004,1801,Casa di Riposo Chianoc Savigliano,8561.0,Healthcare: Nursing Home/ Assisted Living,Yes
+1000207041,1802,CONF,10435.0,CONF,Yes
+1000207055,1803,SinotransPFS CD Cold Chain-S1,9952.0,Warehouse: Refrigerated,Yes
+1000207057,1804,SinotransPFS CD Cold Chain-S2,21304.0,Warehouse: Refrigerated,Yes
+1000207087,1805,Sinotrans CD LQ-W2,6589.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000207089,1806,Sinotrans CD LQ-W3,14141.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000207092,1807,Sinotrans CD LQ-W4,14141.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000207094,1808,Sinotrans CD LQ-W5,18312.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000207096,1809,Sinotrans CD LQ-W6,18312.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000207173,1810,China Life Insurance Xiamen Tower,50118.0,Office: Mixed-Use,Yes
+1000207249,1811,Dubai Internet city- Building 18,7836.93,Office: Government,Yes
+1000207322,1812,Strand 50,981.51,Office: Mixed-Use,Yes
+1000207345,1813,Dubai Internet City Building 19,9472.58,Office: Government,Yes
+1000207347,1814,Dubai Internet city  Huawei Building,9176.68,Office: Government,Yes
+1000207350,1815,"In5 Design, Dubai Design District",237.83,Office: Government,Yes
+1000207355,1816,"In5 Media, Dubai Production City",2097.75,Office: Government,Yes
+1000207358,1817,"In5 Tech, Dubai Internet City",2235.99,Office: Government,Yes
+1000207360,1818,555 Richmond West,29187.0,Office: Administrative/Professional,Yes
+1000207396,1819,Ping'an Lize Financial Center -B,127521.0,Office: Mixed-Use,Yes
+1000207399,1820,Ping'an Lize Financial Center -A,136567.0,Office: Mixed-Use,Yes
+1000207402,1821,CMST Shanghai Heqing  Project,28709.0,Warehouse: General,Yes
+1000207436,1822,No.8 Visitor Center,463.0,Public Assembly: Social/Meeting,Yes
+1000207438,1823,No.10 Administration Building,6828.0,Office: Administrative/Professional,Yes
+1000207440,1824,No.11 Library,11984.0,Other,Yes
+1000207443,1825,No.12 Sports Complex,13187.0,Other,Yes
+1000207447,1826,No.15B Undergraduate Student Residence,4575.0,Lodging: Dormitory,Yes
+1000207451,1827,Fortune Financial Center,176000.0,Office: Mixed-Use,Yes
+1000207486,1828,T-Center,139363.0,Office: Mixed-Use,Yes
+1000207490,1829,Indian Designs Exports Pvt Ltd- Unit 4,10734.27,Industrial Manufacturing,Yes
+1000207512,1830,Nansha International Talent Port,44577.0,Office: Administrative/Professional,Yes
+1000207514,1831,Shenzhen Li Ning Center,44340.0,Office: Administrative/Professional,Yes
+1000207570,1832,1 Music Circle South,9892.31,Office: Mixed-Use,Yes
+1000207580,1833,SINO INTERNATIONAL PLAZA,45944.0,Office: Mixed-Use,Yes
+1000207601,1834,Energizer Park,45986.98,Public Assembly: Stadium/Arena,Yes
+1000207634,1835,"Taj Mahal, New Delhi",35466.84,"Lodging: Hotel/Motel/Resort, Limited Service",Yes
+1000207656,1836,CONF,39145.0,CONF,Yes
+1000207812,1837,Seoul International Tower,48516.0,Office: Mixed-Use,Yes
+1000207818,1838,CONF,3623.22,CONF,Yes
+1000207821,1839,GLP I-Park Beijing Building 3,16674.0,Office: Mixed-Use,Yes
+1000207823,1840,GLP I-Park Beijing Building 4,15844.0,Office: Mixed-Use,Yes
+1000207825,1841,GLP I-Park Beijing Building 5,14531.0,Office: Mixed-Use,Yes
+1000207827,1842,GLP I-Park Beijing Building 6,14632.0,Office: Mixed-Use,Yes
+1000207829,1843,GLP I-Park Beijing Building 7,26075.0,Office: Mixed-Use,Yes
+1000207831,1844,GLP I-Park Beijing Building 1,45294.0,Office: Mixed-Use,Yes
+1000207833,1845,GLP I-Park Beijing Building 2,15489.0,Office: Mixed-Use,Yes
+1000207835,1846,CONF,9476.11,CONF,Yes
+1000207839,1847,CONF,3901.93,CONF,Yes
+1000207856,1848,CONF,2322.57,CONF,Yes
+1000207858,1849,CONF,4180.64,CONF,Yes
+1000207860,1850,CONF,5759.99,CONF,Yes
+1000207887,1851,"300 Park Ave South, NY",17187.06,Office: Administrative/Professional,Yes
+1000207938,1852,CASTELLANA 42,3887.0,Office: Administrative/Professional,Yes
+1000208203,1853,New Bund International Square,67459.0,Office: Mixed-Use,Yes
+1000208225,1854,Beijing Shounong Yuanzhongxin Project,250273.0,Office: Mixed-Use,Yes
+1000208237,1855,GLP Shanghai Jinqiao Park E1,23945.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000208297,1856,Changsha IFS - Retail and Office Tower 1,505871.0,Office: Mixed-Use,Yes
+1000208309,1857,Merck Life Science Office Building,2295.0,Office: Administrative/Professional,Yes
+1000208339,1858,Dubai Festival Plaza,91170.0,Retail: Enclosed Mall,Yes
+1000208345,1859,CONF,17601.0,CONF,Yes
+1000208417,1860,ESR Suzhou Yihao Logistics Park T1,53539.0,Warehouse: General,Yes
+1000208420,1861,ESR Suzhou Yihao Logistics Park T2,54147.0,Warehouse: General,Yes
+1000208422,1862,ESR Suzhou Yihao Logistics Park T3,61319.0,Warehouse: General,Yes
+1000208424,1863,CESC BBD BAG Substation,1436.47,Service: Other Service,Yes
+1000208526,1864,Hospital Regional de Sao Jose dos Campos,22399.95,Healthcare: Inpatient,Yes
+1000208528,1865,Hospital Regional de Sorocaba,24082.4,Healthcare: Inpatient,Yes
+1000208530,1866,Hosp. Centro de Ref. em Saude da Mulher,26729.0,Healthcare: Inpatient,Yes
+1000208564,1867,LERIDA 44,3858.61,Office: Administrative/Professional,Yes
+1000208583,1868,Omaxe Connaught Place,65938.79,Office: Mixed-Use,Yes
+1000208607,1869,HCL Nagpur Cafeteria,2577.41,Retail: Restaurant/Cafeteria,Yes
+1000208609,1870,HCL Nagpur IT-02,15887.99,Office: Administrative/Professional,Yes
+1000208652,1871,Himalaya Wellness Company,3483.86,Office: Administrative/Professional,Yes
+1000208678,1872,"MICO- Milano Convention Center, Pav. 3-4",37929.0,Public Assembly: Convention Center,Yes
+1000208812,1873,CONF,25500.0,CONF,Yes
+1000208814,1874,CONF,16027.0,CONF,Yes
+1000208816,1875,Madrid Content City - Fase 2 / A1-A2-A3,3144.0,Other,Yes
+1000208820,1876,Madrid Content City - Fase 2 / B1-B2-B3,3136.0,Other,Yes
+1000208822,1877,Madrid Content City - Fase 2 / C1-C2-C3,3144.0,Other,Yes
+1000208824,1878,Madrid Content City - Fase 2 / N4-N6-N8,3136.0,Other,Yes
+1000208826,1879,Madrid Content City - Fase 2 Platos 6,3018.0,Other,Yes
+1000208828,1880,CONF,2250.0,CONF,Yes
+1000208830,1881,CONF,2355.5,CONF,Yes
+1000208832,1882,Madrid Content City - Fase 3 Platos,4870.0,Other,Yes
+1000208834,1883,Madrid Content City - Fase 3 Universidad,15785.0,Core Learning Space: College/University,Yes
+1000208850,1884,ESR Gedian Yizhuo Logistics Park 2,20356.0,Warehouse: General,Yes
+1000208852,1885,ESR Gedian Yizhuo Logistics Park 1,21459.0,Warehouse: General,Yes
+1000208854,1886,ESR Gedian Yizhuo Logistics Park 3,23212.0,Warehouse: General,Yes
+1000208858,1887,ESR Gedian Yizhuo Logistics Park 4,24110.0,Warehouse: General,Yes
+1000208863,1888,Dorset House,59699.4,Office: Administrative/Professional,Yes
+1000208865,1889,PCCW Tower,55306.9,Office: Administrative/Professional,Yes
+1000208949,1890,AsiaWorld-Expo,112296.0,Public Assembly: Convention Center,Yes
+1000208975,1891,CONF,120550.0,CONF,Yes
+1000208977,1892,CONF,13935.0,CONF,Yes
+1000208990,1893,Parc1 NH FINANCE TOWER-Tower2,123787.0,Office: Mixed-Use,Yes
+1000208992,1894,ESR Kunshan Fuchan Logistics Park1,22361.0,Warehouse: General,Yes
+1000208995,1895,ESR Kunshan Fuchan Logistics Park2,22361.0,Warehouse: General,Yes
+1000208997,1896,BODIO 4,11075.0,Office: Mixed-Use,Yes
+1000208999,1897,ESR Kunshan Fuchan Logistics Park3,17294.0,Warehouse: General,Yes
+1000209001,1898,ESR Kunshan Fuchan Logistics Park4,17973.0,Warehouse: General,Yes
+1000209012,1899,Bee Ridge Branch,493.78,Retail: Bank Branch,Yes
+1000209038,1900,Gao An Court,6822.0,Multi-Family Residential: Apartment,Yes
+1000209149,1901,Godrej TWO,83551.01,Office: Other Office,Yes
+1000209237,1902,CESC Park Lane Substation,1071.26,Service: Other Service,Yes
+1000209243,1903,SF Shanghai Xinbang Park Phase I,34974.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000209292,1904,CESC Titagarh Receiving Station,3450.88,Service: Other Service,Yes
+1000209313,1905,Cond. Internacional Rio,15183.0,Office: Administrative/Professional,Yes
+1000209397,1906,Goodman Western Plaza,110451.0,Warehouse: General,Yes
+1000209478,1907,DI HQ Building 01,9636.46,Office: Other Office,Yes
+1000209480,1908,DI HQ Building 2 &3,19221.72,Healthcare: Inpatient,Yes
+1000209482,1909,DI HQ Building 04,9629.77,Office: Other Office,Yes
+1000209525,1910,JW Marriott Mumbai Juhu,48114.84,"Lodging: Hotel/Motel/Resort, Limited Service",Yes
+1000209531,1911,Ritz Carlton,32140.78,"Lodging: Hotel/Motel/Resort, Full Service",Yes
+1000209619,1912,JINGDONG TECH BUILDING,55021.0,Office: Mixed-Use,Yes
+1000209760,1913,One Island East,142791.8,Office: Administrative/Professional,Yes
+1000209827,1914,Guangzhou Airport Logistics Park P1,120515.0,Warehouse: General,Yes
+1000209829,1915,Guangzhou Airport Logistics Park P2,26178.0,Warehouse: Refrigerated,Yes
+1000209831,1916,Guangzhou Airport Logistics Park P3,26010.0,Warehouse: Refrigerated,Yes
+1000209833,1917,Guangzhou Airport Logistics Park P4,26665.0,Warehouse: General,Yes
+1000209866,1918,Roach Icon,33696.77,Office: Administrative/Professional,Yes
+1000209869,1919,BRICS TOWER,93948.0,Office: Financial,Yes
+1000209895,1920,Guangzhou International Shipping Tower,71276.0,Office: Other Office,Yes
+1000209946,1921,ONE UNITY CENTER,52318.51,Office: Administrative/Professional,Yes
+1000209969,1922,Inter-Continental Plaza,16550.0,Office: Mixed-Use,Yes
+1000209971,1923,The Canton Place,12911.0,Retail: Restaurant/Cafeteria,Yes
+1000210009,1924,MFAR Manyata Tech Park Phase-4,88015.94,Office: Mixed-Use,Yes
+1000210019,1925,CONF,14546.01,CONF,Yes
+1000210064,1926,CPIC FINANCIAL TOWER,119613.0,Office: Mixed-Use,Yes
+1000210075,1927,LogisHub Yeoju A-1 & B,70849.92,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000210077,1928,LogisHub Yeoju A-2,51935.13,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000210079,1929,LogisHub Incheon,85941.65,Warehouse: Refrigerated,Yes
+1000210081,1930,Nanjing IFC&IFCX,112892.0,Office: Mixed-Use,Yes
+1000210086,1931,Gateway I - Tower 1 & 2,104701.59,Office: Mixed-Use,Yes
+1000210092,1932,"Gateway II - Tower 3, 5 & 6",174564.52,Office: Mixed-Use,Yes
+1000210094,1933,World Finance Centre - North & South,44212.23,Office: Mixed-Use,Yes
+1000210096,1934,Wharf T & T Centre,20903.06,Office: Mixed-Use,Yes
+1000210127,1935,CONF,3716.12,CONF,Yes
+1000210145,1936,GLP Hangzhou Bay C-1,37293.24,Warehouse: General,Yes
+1000210147,1937,GLP Hangzhou Bay C-2,36360.0,Warehouse: General,Yes
+1000210149,1938,CPIC TOWER,53947.0,Office: Mixed-Use,Yes
+1000210150,1939,MERLIN PROPERTIES - Atica 2,5362.0,Office: Administrative/Professional,Yes
+1000210310,1940,Chengdu New Innovation Center,89677.0,Office: Mixed-Use,Yes
+1000210322,1941,Hengqin IFC - Office,83962.0,Office: Mixed-Use,Yes
+1000210324,1942,Hengqin IFC - Retail,20947.0,Office: Mixed-Use,Yes
+1000210333,1943,South Tamiami Branch,585.29,Office: Financial,Yes
+1000210391,1944,Chalhoub Group Head Office 1,8915.0,Office: Administrative/Professional,Yes
+1000210395,1945,Chalhoub Group Head Office 2,6939.0,Office: Administrative/Professional,Yes
+1000210397,1946,Chalhoub Group DIP Distribution Centre,12437.0,Warehouse: General,Yes
+1000210402,1947,Qianhai Kerry Centre Phase I- Office T1,63215.0,Office: Mixed-Use,Yes
+1000210404,1948,Qianhai Kerry Centre Phase I- Office T2,57178.0,Office: Mixed-Use,Yes
+1000210407,1949,Qianhai Kerry Centre Phase II- Office T7,27380.0,Office: Mixed-Use,Yes
+1000210409,1950,Qianhai Kerry Centre Phase II- Office T8,45054.0,Office: Mixed-Use,Yes
+1000210412,1951,Shenzhen Kerry Plaza Phase I,74141.0,Office: Mixed-Use,Yes
+1000210414,1952,Shenzhen Kerry Plaza Phase II,71709.97,Office: Mixed-Use,Yes
+1000210416,1953,Shenzhen China Merchants Tower,60296.0,Office: Mixed-Use,Yes
+1000210418,1954,Shenzhen Prince Plaza,65081.0,Office: Mixed-Use,Yes
+1000210463,1955,Hanssem HQ,49888.0,Office: Administrative/Professional,Yes
+1000210470,1956,Torre Norte Castellana,62108.0,Office: Administrative/Professional,Yes
+1000210509,1957,Dmart Koramangala,2938.99,Retail: Other Retail,Yes
+1000210511,1958,Dmart Kachiguda,4318.04,Retail: Other Retail,Yes
+1000210513,1959,DMart Central Mall Goregaon,8061.01,Retail: Other Retail,Yes
+1000210516,1960,Dmart Erode,5886.24,Retail: Other Retail,Yes
+1000210641,1961,AIA Tower,37334.0,Office: Mixed-Use,Yes
+1000210654,1962,Infosys limited Mahindra city B7 & B8,59134.71,Office: Administrative/Professional,Yes
+1000210656,1963,Infosys limited M.City leisure block,6781.92,Office: Administrative/Professional,Yes
+1000210658,1964,Infosys limited M.City food court 2,5758.41,Retail: Restaurant/Cafeteria,Yes
+1000210660,1965,"SDB 4, Pocharam, Hyderabad",37613.92,Office: Administrative/Professional,Yes
+1000210662,1966,"SDB 5, Pocharam, Hyderabad",34875.88,Office: Administrative/Professional,Yes
+1000210667,1967,LEED SANTANDER,2989.0,Office: Administrative/Professional,Yes
+1000210678,1968,Phase III logistics warehouse 3-1,29329.0,Warehouse: General,Yes
+1000210680,1969,Phase III logistics warehouse 3-2,29329.0,Warehouse: General,Yes
+1000210682,1970,Phase III logistics warehouse 3-3,27227.0,Warehouse: General,Yes
+1000210684,1971,Phase III logistics warehouse 3-4,27227.0,Warehouse: General,Yes
+1000210913,1972,DMart Karol Bagh,4295.0,Retail: Convenience Store,Yes
+1000210949,1973,SYMMETRICS DEVELOPMENT SERVICES PVT LTD,364.92,Office: Administrative/Professional,Yes
+1000210979,1974,Bharti Realty Limited.,11693.0,Office: Other Office,Yes
+1000211096,1975,Panasonic Ecology Systems Guangdong,6823.0,Office: Mixed-Use,Yes
+1000211106,1976,CESC Chakmir Substation,678.19,Service: Other Service,Yes
+1000211118,1977,UNICEF Global Headquarters,21887.48,Office: Administrative/Professional,Yes
+1000211272,1978,AK Plaza Gwang-Myeong,57320.0,Retail: Open Shopping Center,Yes
+1000211298,1979,ESR Fengxian Fengyuan  Logistics Park W1,111390.0,Warehouse: General,Yes
+1000211310,1980,ESR Taicang Mingzhan  Logistics Park W4,23703.39,Warehouse: General,Yes
+1000211312,1981,ESR Kunshan Yitian Logistics Park E,32863.0,Warehouse: General,Yes
+1000211314,1982,ESR Kunshan Yitian Logistics Park F,37768.0,Warehouse: General,Yes
+1000211316,1983,ESR Kunshan Yitian Logistics Park W1,11356.0,Warehouse: General,Yes
+1000211318,1984,ESR Kunshan Yitian Logistics Park W2,10833.0,Warehouse: General,Yes
+1000211320,1985,ESR Kunshan Yitian Logistics Park W3,11356.0,Warehouse: General,Yes
+1000211322,1986,ESR Kunshan Yitian Logistics Park W4,10833.0,Warehouse: General,Yes
+1000211326,1987,ESR Kunshan Yitian Logistics Park B,14947.0,Warehouse: General,Yes
+1000211328,1988,ESR Kunshan Yitian Logistics Park A,21651.0,Warehouse: General,Yes
+1000211330,1989,ESR Kunshan Yitian Logistics Park C,17459.0,Warehouse: General,Yes
+1000211332,1990,ESR Taicang Mingzhan  Logistics Park W1,18346.0,Warehouse: General,Yes
+1000211334,1991,ESR Taicang Mingzhan  Logistics Park W2,23227.69,Warehouse: General,Yes
+1000211336,1992,ESR Taicang Mingzhan  Logistics Park W3,23582.18,Warehouse: General,Yes
+1000211367,1993,Ascendas Xinsu Square Building A,28722.0,Office: Other Office,Yes
+1000211368,1994,Ascendas Xinsu Square Building B,28777.0,Office: Other Office,Yes
+1000211369,1995,Ascendas Xinsu Square Building C,13274.0,Office: Other Office,Yes
+1000211370,1996,Ascendas Xinsu Square Building D,13234.0,Office: Other Office,Yes
+1000211454,1997,CONF,2638.66,CONF,Yes
+1000211488,1998,A&L APPARELS PVT LTD,2168.73,Industrial Manufacturing,Yes
+1000211529,1999,JINAN PINGAN FINANCE CENTRE,180000.0,Office: Mixed-Use,Yes
+1000211565,2000,Building L,13902.0,Office: Administrative/Professional,Yes
+1000211571,2001,LHT TOWER,16548.0,Office: Administrative/Professional,Yes
+1000211659,2002,TPDDL BADLI DISTRICT OFFICE BUILDING,1346.0,Office: Administrative/Professional,Yes
+1000211661,2003,TPDDL MOTI NAGAR DISTRICT OFFICE,1755.0,Office: Administrative/Professional,Yes
+1000211664,2004,TPDDL DISTRICT OFFICE BUILDING- SHALIMAR,814.67,Office: Administrative/Professional,Yes
+1000211666,2005,TPDDL SHAKTI NAGAR OFFICE BUILDING,1352.0,Office: Administrative/Professional,Yes
+1000211668,2006,TPDDL PROTECTION & TESTING OFFICE,859.72,Office: Administrative/Professional,Yes
+1000211932,2007,BLDG NO 5 / R3 GERA COMMERZONE,51743.91,Office: Other Office,Yes
+1000212031,2008,Paramount Products Pvt. Ltd,4736.0,Industrial Manufacturing,Yes
+1000212332,2009,PRESTIGE THIRULAKSHMI - VST TOWER,9392.03,Office: Administrative/Professional,Yes
+1000212367,2010,Jeongwang Logistics,104451.71,Warehouse: General,Yes
+1000212369,2011,China Central Place,214819.0,Office: Administrative/Professional,Yes
+1000212503,2012,5 Corporate Avenue,51628.0,Office: Other Office,Yes
+1000212516,2013,S A Diamonds,1742.3,Industrial Manufacturing,Yes
+1000212583,2014,Pinghu Yishang Building A,17383.0,Warehouse: General,Yes
+1000212585,2015,Pinghu Yishang Building B,19162.0,Warehouse: General,Yes
+1000212587,2016,Kunshan Hanfeng Building 1,16735.0,Warehouse: General,Yes
+1000212589,2017,Kunshan Hanfeng Building 2,12424.0,Warehouse: General,Yes
+1000212591,2018,Kunshan Hanfeng Workshop,13289.0,Warehouse: General,Yes
+1000212596,2019,Ningbo Beilun Building 1,33813.0,Warehouse: General,Yes
+1000212598,2020,Ningbo Beilun Building 2,33795.0,Warehouse: General,Yes
+1000212600,2021,Ningbo Beilun Building 3,10939.0,Warehouse: General,Yes
+1000212602,2022,Chengdu LQY Building 1,57216.0,Warehouse: General,Yes
+1000212604,2023,Wuxi Bonded Phase1 Building,31035.0,Warehouse: General,Yes
+1000212606,2024,Wuxi Bonded Phase2 Building 1,19096.0,Warehouse: General,Yes
+1000212608,2025,Wuxi Bonded Phase2 Building 2,16233.0,Industrial Manufacturing,Yes
+1000212610,2026,Chengdu LQY Building 2,25469.73,Warehouse: General,Yes
+1000212612,2027,Chengdu LQY Building 3,20377.35,Warehouse: General,Yes
+1000212614,2028,Chengdu LQY Building 4,20388.26,Warehouse: General,Yes
+1000212616,2029,ESR Kunshan Shang'en Logistics Park W1,21827.0,Warehouse: General,Yes
+1000212618,2030,Kunshan Zhoushi Workshop 2,11759.0,Warehouse: General,Yes
+1000212620,2031,Kunshan Zhoushi Workshop 3,12992.0,Warehouse: General,Yes
+1000212630,2032,Shanghai Oriento Plaza Building A,18684.0,Office: Mixed-Use,Yes
+1000212632,2033,Shanghai Oriento Plaza Building B,16137.0,Office: Mixed-Use,Yes
+1000212634,2034,Shanghai Oriento Plaza Building C,16137.0,Office: Mixed-Use,Yes
+1000212671,2035,CONF,100424.06,CONF,Yes
+1000212761,2036,LPS Bossard Private Limited,16499.76,Industrial Manufacturing,Yes
+1000212807,2037,Shanghai Pufa Tower,64931.0,Office: Mixed-Use,Yes
+1000213195,2038,Taicang Dettol Production Building A201,15664.0,Industrial Manufacturing,Yes
+1000213198,2039,Taicang Dettol Admin Building A600,5599.0,Office: Administrative/Professional,Yes
+1000213265,2040,Jindal Stainless Centre,6670.25,Office: Mixed-Use,Yes
+1000213303,2041,LOGOS HANGZHOU LOGISTICS PARK,27543.0,Warehouse: General,Yes
+1000213306,2042,LOGOS WUJIANG MODERN LOGISTICS PARK,23062.2,Warehouse: General,Yes
+1000213312,2043,Mapletree Logistics Centre Hobeob3,54332.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000213387,2044,CONF,3734.7,CONF,Yes
+1000213885,2045,Inspire BKC,60510.6,Office: Mixed-Use,Yes
+1000213928,2046,100 Queen's Road Central,17116.0,Office: Mixed-Use,Yes
+1000213930,2047,FORESEA LIFE BUILDING,14486.0,Office: Financial,Yes
+1000214270,2048,WANGJING CENTER,74727.0,Office: Mixed-Use,Yes
+1000214275,2049,CONF,26246.31,CONF,Yes
+1000214293,2050,GLP Fengcheng Campus B-1,27818.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000214295,2051,GLP Fengcheng Campus B-2,47408.0,Warehouse: Nonrefrigerated Distribution/Shipping,Yes
+1000214552,2052,SLOAN India Pvt. Ltd.,1135.92,Office: Administrative/Professional,Yes
+1000214596,2053,CSCEC-TAISEI Energy Storage Building,100.99,Office: Mixed-Use,Yes
+1000214845,2054,CHAROEN POKPHAND BIOTECHNOLOGY FACTORY,21810.47,Warehouse: General,Yes
+1000214952,2055,MCP One,16205.0,Retail: Enclosed Mall,Yes
+1000215041,2056,Dell International Services India Privat,18206.48,Industrial Manufacturing,Yes
+1000215143,2057,RMC Gems India Ltd,3507.09,Industrial Manufacturing,Yes
+1000215477,2058,ZHONGGUANCUN CY DIG MED IND PK BLK 1,34199.0,Office: Administrative/Professional,Yes
+1000215481,2059,ZHONGGUANCUN CY DIG MED IND PK BLK 2,25000.0,Office: Administrative/Professional,Yes
+1000215483,2060,ZHONGGUANCUN CY DIG MED IND PK BLK 3,15800.0,Office: Administrative/Professional,Yes
+1000215714,2061,CONF,3437.41,CONF,Yes
+1000215829,2062,Canny Elevator Technology Center,8377.0,Office: Administrative/Professional,Yes
+1000216346,2063,Mashreq Bank DOZ,21588.52,Office: Financial,Yes
+1000216631,2064,Commerzone Kharadi R1/Building No 3,37268.97,Office: Other Office,Yes
+1000217225,2065,"Kama Ayurveda Factory, Crafting Greener",2015.62,Industrial Manufacturing,Yes
+1000217729,2066,Central Square I,13967.32,Office: Administrative/Professional,Yes
