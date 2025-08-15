@@ -47,11 +47,10 @@ Performance rankings: Country-level leaders and laggards in energy, CO₂, waste
 Hypothesis testing: Used ANOVA and Spearman’s correlation to explore links between certification level and energy savings.
 Findings: Higher certifications often align with greater energy savings, offering guidance for developers and policymakers.
 
-# ⚠️ Challenges & Solutions
+# ⚠️ Major Obstacles & Solutions
 •  No existing sustainability metrics → research and engineered new features for analysis
 •  Preparing data for SQL and Tableau → ERM , ERD, Structured tables for queries and dashboards
-•  Unclear relationships between certification levels and sustainability impact → performed statistical tests to validate correlations
-
+• Ensuring clarity for visualization → used dashboards to tell the stroy visually
 
 # 📝 Key Insights & Conclusions
 •  LEED buildings drive significant energy savings, with impacts varying by country.
@@ -67,7 +66,7 @@ Findings: Higher certifications often align with greater energy savings, offerin
 
 # 🔗Links
 Presentation: https://docs.google.com/presentation/d/1x8Jq8jGE7SmCcKPlQEARAYq503F9XYlLPbst67xwtmk/edit?slide=id.p#slide=id.p
-Public Tableau: https://public.tableau.com/app/profile/brenda.villaverde.garcia/viz/Global_to_local_project/GLOBALTOLOCALLEEDSUSTAINABILITYINSIGHTS?publish=yes
+Public Tableau: https://public.tableau.com/app/profile/brenda.villaverde.garcia/viz/Global_to_local_project/GLOBALTOLOCALLEEDSUSTAINABILITYINSIGHTS
 Extra sources:  https://trello.com/b/c7vxOH80/global-to-local-leed-sustainability-insights-data-analytics-end-to-end
 
 ## 🗃️ Repository Structure
